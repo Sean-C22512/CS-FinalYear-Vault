@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#anki/CMPU4011",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,12 +182,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b3acdb73dc62aa7",
+  "active": "0bb7908e81d7083a",
   "lastOpenFiles": [
     "Templates/NotebookLM Flashcard Prompt.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
     "Templates/Flashcard Template.md",
     "Templates/NotebookLM Prompt.md",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
     "CMPU4003 - Advanced Databases/Flashcards/Test.md.md",
     "README.md",
     "Welcome.md",
