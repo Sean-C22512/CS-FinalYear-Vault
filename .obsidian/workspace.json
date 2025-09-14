@@ -11,14 +11,12 @@
             "id": "7b3acdb73dc62aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CMPU 4003 23-24"
+              "icon": "lucide-file-text",
+              "title": "CMPU 4003 24-25"
             }
           }
         ]
@@ -171,11 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b3acdb73dc62aa7",
+  "active": "d170abe4e41e5792",
   "lastOpenFiles": [
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
     "CMPU 4003 23-24.pdf",
     "README.md",
     "Templates/Flashcard Template.md",
@@ -187,10 +190,6 @@
     "Welcome.md",
     "Logs",
     "Resources",
-    "Templates",
-    "CMPU4003 - Advanced Databases/Raw",
-    "CMPU4003 - Advanced Databases/Notes",
-    "CMPU4003 - Advanced Databases/Flashcards",
-    "CMPU4003 - Advanced Databases/Exams"
+    "Templates"
   ]
 }
