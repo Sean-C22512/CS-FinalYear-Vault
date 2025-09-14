@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lecture",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -183,7 +181,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b3acdb73dc62aa7",
+  "active": "d170abe4e41e5792",
   "lastOpenFiles": [
     "Templates/NotebookLM Prompt.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
