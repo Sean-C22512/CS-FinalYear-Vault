@@ -17,8 +17,74 @@
       "Image Occlusion": "Occlusion"
     },
     "CONTEXT_FIELDS": {},
-    "FOLDER_DECKS": {},
-    "FOLDER_TAGS": {},
+    "FOLDER_DECKS": {
+      "CMPU4003 - Advanced Databases": "",
+      "CMPU4007 - Advanced Security": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics": "",
+      "CMPU4027 - Final Year Project": "",
+      "CMPU4050 - Systems Integration": "",
+      "Resources": "",
+      "Templates": "",
+      "CMPU4003 - Advanced Databases/Assets": "",
+      "CMPU4003 - Advanced Databases/Exams": "",
+      "CMPU4003 - Advanced Databases/Flashcards": "",
+      "CMPU4003 - Advanced Databases/Notes": "",
+      "CMPU4003 - Advanced Databases/Raw": "",
+      "CMPU4007 - Advanced Security/Assets": "",
+      "CMPU4007 - Advanced Security/Exams": "",
+      "CMPU4007 - Advanced Security/Flashcards": "",
+      "CMPU4007 - Advanced Security/Notes": "",
+      "CMPU4007 - Advanced Security/Raw": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Assets": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Exams": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Notes": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Raw": "",
+      "CMPU4027 - Final Year Project/Assets": "",
+      "CMPU4027 - Final Year Project/Exams": "",
+      "CMPU4027 - Final Year Project/Flashcards": "",
+      "CMPU4027 - Final Year Project/Notes": "",
+      "CMPU4027 - Final Year Project/Raw": "",
+      "CMPU4050 - Systems Integration/Assets": "",
+      "CMPU4050 - Systems Integration/Exams": "",
+      "CMPU4050 - Systems Integration/Flashcards": "",
+      "CMPU4050 - Systems Integration/Notes": "",
+      "CMPU4050 - Systems Integration/Raw": ""
+    },
+    "FOLDER_TAGS": {
+      "CMPU4003 - Advanced Databases": "",
+      "CMPU4007 - Advanced Security": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics": "",
+      "CMPU4027 - Final Year Project": "",
+      "CMPU4050 - Systems Integration": "",
+      "Resources": "",
+      "Templates": "",
+      "CMPU4003 - Advanced Databases/Assets": "",
+      "CMPU4003 - Advanced Databases/Exams": "",
+      "CMPU4003 - Advanced Databases/Flashcards": "",
+      "CMPU4003 - Advanced Databases/Notes": "",
+      "CMPU4003 - Advanced Databases/Raw": "",
+      "CMPU4007 - Advanced Security/Assets": "",
+      "CMPU4007 - Advanced Security/Exams": "",
+      "CMPU4007 - Advanced Security/Flashcards": "",
+      "CMPU4007 - Advanced Security/Notes": "",
+      "CMPU4007 - Advanced Security/Raw": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Assets": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Exams": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Notes": "",
+      "CMPU4011 - Machine Learning for Predictive Analytics/Raw": "",
+      "CMPU4027 - Final Year Project/Assets": "",
+      "CMPU4027 - Final Year Project/Exams": "",
+      "CMPU4027 - Final Year Project/Flashcards": "",
+      "CMPU4027 - Final Year Project/Notes": "",
+      "CMPU4027 - Final Year Project/Raw": "",
+      "CMPU4050 - Systems Integration/Assets": "",
+      "CMPU4050 - Systems Integration/Exams": "",
+      "CMPU4050 - Systems Integration/Flashcards": "",
+      "CMPU4050 - Systems Integration/Notes": "",
+      "CMPU4050 - Systems Integration/Raw": ""
+    },
     "Syntax": {
       "Begin Note": "START",
       "End Note": "END",
@@ -31,8 +97,8 @@
     },
     "Defaults": {
       "Scan Directory": "",
-      "Tag": "Obsidian_to_Anki",
-      "Deck": "Default",
+      "Tag": "",
+      "Deck": "CS_FinalYear",
       "Scheduling Interval": 0,
       "Add File Link": false,
       "Add Context": false,
@@ -47,5 +113,34 @@
   },
   "Added Media": [],
   "File Hashes": {},
-  "fields_dict": {}
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Image Occlusion": [
+      "Occlusion",
+      "Image",
+      "Header",
+      "Back Extra",
+      "Comments"
+    ]
+  }
 }
