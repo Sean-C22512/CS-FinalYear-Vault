@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🥩",
+      "📔",
+      "🗂",
+      "✏",
+      "🖼"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,19 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "CMPU4003 - Advanced Databases/Assets": "🖼",
+  "CMPU4003 - Advanced Databases/Exams": "✏",
+  "CMPU4003 - Advanced Databases/Flashcards": "🗂",
+  "CMPU4003 - Advanced Databases/Notes": "📔",
+  "CMPU4003 - Advanced Databases/Raw": "🥩",
+  "CMPU4007 - Advanced Security/Assets": "🖼",
+  "CMPU4007 - Advanced Security/Exams": "✏",
+  "CMPU4007 - Advanced Security/Flashcards": "🗂",
+  "CMPU4007 - Advanced Security/Notes": "📔",
+  "CMPU4007 - Advanced Security/Raw": "🥩",
+  "CMPU4011 - Machine Learning for Predictive Analytics/Assets": "🖼",
+  "CMPU4011 - Machine Learning for Predictive Analytics/Exams": "✏",
+  "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards": "🗂",
+  "CMPU4011 - Machine Learning for Predictive Analytics/Notes": "📔"
 }
