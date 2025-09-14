@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
+                "file": "Templates/Flashcard Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Flashcard Template"
             }
           },
           {
@@ -181,13 +181,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d170abe4e41e5792",
+  "active": "7b3acdb73dc62aa7",
   "lastOpenFiles": [
+    "Templates/NotebookLM Flashcard Prompt.md",
     "Templates/Flashcard Template.md",
+    "Templates/NotebookLM Prompt.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
     "CMPU4003 - Advanced Databases/Flashcards/Test.md.md",
-    "Templates/NotebookLM Flashcard Prompt.md",
-    "Templates/NotebookLM Prompt.md",
     "README.md",
     "Welcome.md",
     "Logs",
