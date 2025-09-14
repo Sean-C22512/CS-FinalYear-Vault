@@ -1,43 +1,34 @@
 # Week 1 - Binary Classification Flashcards
-
----
-Week: 1
 Module: CMPU4011 - Machine Learning for Predictive Analytics
 Deck: CMPU4011 - Machine Learning for Predictive Analytics
 Tags: #anki/CMPU4011 #flashcards
----
 
-## Concept Cards
+Binary classification is a type of supervised learning where the model predicts one of two possible classes for a given input. #flashcard
 
-Q: What is binary classification?  
-A: A type of supervised learning where the model predicts one of two possible classes for a given input.
+What is the purpose of the sigmoid function in logistic regression?
+To map the predicted values to a probability between 0 and 1. #flashcard
+<!--ID: 1757866244275-->
 
-Q: What is the purpose of the sigmoid function in logistic regression?  
-A: To map the predicted values to a probability between 0 and 1.
 
-Q: What is overfitting in machine learning?  
-A: When a model learns the training data too well, including noise, reducing its ability to generalize to new data.
+What is overfitting in machine learning?
+When a model learns the training data too well, including noise, reducing its ability to generalize to new data. #flashcard
 
----
+What is the formula for the sigmoid function?
+σ(z) = 1 / (1 + e^(-z)) #flashcard
+<!--ID: 1757866244283-->
 
-## Formula / Algorithm Cards
 
-Q: What is the formula for the sigmoid function?  
-A: σ(z) = 1 / (1 + e^(-z))
+The cross-entropy loss is commonly used as a loss function for binary classification tasks. #flashcard
 
-Cloze: The {{c1::cross-entropy loss}} is commonly used as a loss function for {{c2::binary classification}} tasks.
+What is the decision boundary in logistic regression?
+The line or surface where the predicted probability equals 0.5, separating the two classes. #flashcard
+<!--ID: 1757866244285-->
 
-Q: What is the decision boundary in logistic regression?  
-A: The line or surface where the predicted probability equals 0.5, separating the two classes.
 
----
+Explain the difference between precision and recall.
+Precision measures the proportion of true positives among predicted positives. Recall measures the proportion of true positives among actual positives. #flashcard
 
-## Exam-Style Cards
+Given a dataset with severe class imbalance, what strategy would you use to improve model performance?
+Options include resampling (oversampling minority, undersampling majority), using weighted loss functions, or selecting appropriate evaluation metrics like F1-score. #flashcard
+<!--ID: 1757866244287-->
 
-Q: Explain the difference between precision and recall.  
-A: Precision measures the proportion of true positives among predicted positives. Recall measures the proportion of true positives among actual positives.  
-🔗 Related Notes: [[Week 1 - Binary Classification]]
-
-Q: Given a dataset with severe class imbalance, what strategy would you use to improve model performance?  
-A: Options include resampling (oversampling minority, undersampling majority), using weighted loss functions, or selecting appropriate evaluation metrics like F1-score.  
-🔗 Related Notes: [[Week 1 - Binary Classification]]
