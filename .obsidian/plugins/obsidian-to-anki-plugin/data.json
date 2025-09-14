@@ -102,7 +102,7 @@
       "Tag": "",
       "Deck": "CS_FinalYear",
       "Scheduling Interval": 0,
-      "Add File Link": false,
+      "Add File Link": true,
       "Add Context": false,
       "CurlyCloze": false,
       "CurlyCloze - Highlights to Clozes": false,
