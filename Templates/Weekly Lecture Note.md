@@ -16,20 +16,13 @@ Linked Exam Qs: [[Exams/2022 Exam QX]] (add later)
 ## 🔑 Key Concepts & Definitions
 - [Term] → [Definition]
 
-## ⚠️ Common Pitfalls
-- [Pitfall 1]
-
 ## 🎯 Possible Exam-Style Questions
 - Q: [Predicted exam question]
 - A: [[Link to concept above or lecture notes]]
 
-## 📝 Flashcards (Extract Later)
-Q: [Question]
-A: [Answer]
 
 ## 🔗 Related Diagrams
 - [[Assets/WeekX - Topic Diagram.excalidraw]]
 
 ## 🔄 Links
 - Next Lecture: [[Week X+1 - Topic]]
-- Previous Lecture: [[Week X-1 - Topic]]
