@@ -10,13 +10,15 @@
     },
     "FILE_LINK_FIELDS": {
       "Basic": "Front",
-      "Basic (and reversed card)": "Front",
+      "Basic (and reversed card)": "Back",
       "Basic (optional reversed card)": "Front",
       "Basic (type in the answer)": "Front",
       "Cloze": "Text",
       "Image Occlusion": "Occlusion"
     },
-    "CONTEXT_FIELDS": {},
+    "CONTEXT_FIELDS": {
+      "Basic": "Back"
+    },
     "FOLDER_DECKS": {
       "CMPU4003 - Advanced Databases": "",
       "CMPU4007 - Advanced Security": "",
