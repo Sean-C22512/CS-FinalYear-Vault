@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Flashcard Template.md",
+                "file": "CMPU4003 - Advanced Databases/Exams/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flashcard Template"
+              "title": "Untitled"
             }
           },
           {
@@ -183,13 +183,14 @@
   },
   "active": "7b3acdb73dc62aa7",
   "lastOpenFiles": [
+    "README.md",
+    "CMPU4003 - Advanced Databases/Exams/Untitled.md",
+    "Templates/Flashcard Template.md",
     "Templates/NotebookLM Flashcard Prompt.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Weekly Lecture Note.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
-    "Templates/Flashcard Template.md",
     "CMPU4003 - Advanced Databases/Flashcards/Test.md.md",
-    "README.md",
     "Welcome.md",
     "Logs",
     "Resources",
