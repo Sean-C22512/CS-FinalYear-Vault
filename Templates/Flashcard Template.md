@@ -1,6 +1,7 @@
 # Week 1 - Binary Classification Flashcards
+TARGET DECK: CMPU4011 - Machine Learning for Predictive Analytics
 Module: CMPU4011 - Machine Learning for Predictive Analytics
-Deck: CMPU4011 - Machine Learning for Predictive Analytics
+
 Tags: #anki/CMPU4011 #flashcards
 
 Binary classification is a type of supervised learning where the model predicts one of two possible classes for a given input. #flashcard
