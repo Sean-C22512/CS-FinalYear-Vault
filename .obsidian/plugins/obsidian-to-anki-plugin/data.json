@@ -113,12 +113,15 @@
   },
   "Added Media": [],
   "File Hashes": {
-    "Templates/Weekly Lecture Note.md": "266ec22f2e98d0ffaeda97dd24978b10",
-    "Templates/NotebookLM Prompt.md": "174d58b6263e23fa9100d7ac55c44b07",
-    "Templates/NotebookLM Flashcard Prompt.md": "cf521fa5164ba64e7a7e8d680878a707",
-    "Templates/Flashcard Template.md": "94301836279943b5a13cef87f3da1f01",
+    "Templates/Weekly Lecture Note.md": "044bceec7264531f97125dfed8461be6",
+    "Templates/NotebookLM Prompt.md": "080e9190dcf294ce64cdbbff4ea34747",
+    "Templates/NotebookLM Flashcard Prompt.md": "124c9de08d8e1e8655356f4bbccb6b62",
+    "Templates/Flashcard Template.md": "66f58989da1e73ed7c3d576901a6242b",
     "README.md": "5600b592ed0a9d0368628939da7ad8b6",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md": "610c8e1147d731841ea2b5846b1aac35"
+    "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md": "610c8e1147d731841ea2b5846b1aac35",
+    "Exams/2025 Exam Q4b.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "CMPU4007 - Advanced Security/Notes/Week 1  -> Introduction to Advanced SecurityTags.md": "a66595f6dab4a8f5321393414d6a8b4a",
+    "CMPU4007 - Advanced Security/Flashcards/Week 1 - Security Fundamentals Flashcards.md": "67b5860e10335bca239e9ef8321d77c5"
   },
   "fields_dict": {
     "Basic": [
