@@ -12,13 +12,11 @@
     
 3. Use cloze deletion format where appropriate ({{c1::...}}).
     
-4. Tag each flashcard for Obsidian with: #anki/{ModuleCode} #flashcards.
+4. Do not invent any content beyond what is in the text.
     
-5. Do not invent any content beyond what is in the text.
+5. Organize flashcards in the order concepts appear in the lecture note.
     
-6. Organize flashcards in the order concepts appear in the lecture note.
-    
-7. Output in Markdown format ready to paste into /Flashcards/Week{WeekNumber} - {Topic}.md.
+6. Output in Markdown format ready to paste into /Flashcards/Week{WeekNumber} - {Topic}.md.
     
 
 **Lecture Note Text:**  
