@@ -11,14 +11,12 @@
             "id": "7b3acdb73dc62aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Templates/Flashcard Template.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Flashcard Template"
+              "icon": "lucide-file-text",
+              "title": "Lec-01"
             }
           }
         ]
@@ -173,6 +171,8 @@
   },
   "active": "7b3acdb73dc62aa7",
   "lastOpenFiles": [
+    "Templates/Flashcard Template.md",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU 4003 23-24.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
@@ -183,10 +183,7 @@
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
     "README.md",
-    "Templates/Flashcard Template.md",
     "Templates/NotebookLM Flashcard Prompt.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Weekly Lecture Note.md",
