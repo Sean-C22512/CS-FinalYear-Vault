@@ -18,12 +18,6 @@
     - Key chapters include: Overview, Classical Encryption Techniques, Block ciphers and the Data Encryption Standard, Number Theory, Advanced Encryption Standard, Block Cipher Operation, Pseudorandom Number Generation and Stream Ciphers, More Number Theory, Public-Key Cryptography and RSA, Cryptographic Hash Functions, and Key Management and Distribution.
     - Additional references include "Network Security Essentials" by Stallings, "Introduction to Cryptography with Java Applets" by Bishop, and "Cryptography Engineering" by Ferguson, Schneier, and Kohno.
 
-### Career Pathways & Projects
-
-- **Postgraduate Studies**
-    - Opportunities exist in TU Dublin Blanchardstown (MSc in Computing in Information Security & Digital Forensics, MSc in Applied Cyber Security) and other universities in Ireland (Cork Institute of Technology, Dublin City University, Letterkenny IT, University College Dublin, University of Limerick).
-- **Final Year Projects in Security**
-    - Potential project areas include: Cryptography in mobile devices, secure transmission in Cloud/IoT, efficient cryptography deployment, security protocols/algorithms, security games development, intelligent rules for Firewall/IDS/IPS, e-learning projects on vulnerabilities, and extending/modifying/testing security tools (e.g., Kali Linux, Snort, Wireshark).
 
 ### Foundational Security Concepts
 
