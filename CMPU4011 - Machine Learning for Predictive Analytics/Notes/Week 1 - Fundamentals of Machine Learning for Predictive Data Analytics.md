@@ -1,4 +1,93 @@
 
+## What is Predictive Data Analytics?
+
+**Predictive Data Analytics** encompasses the business and data processes and computational models that enable a business to make data-driven decisions.
+
+- **Example Applications:** Price Prediction, Fraud Detection, Dosage Prediction, Risk Assessment, Propensity modelling, Diagnosis, Document Classification.
+- It involves moving from data to insights to decisions.
+
+## What is Machine Learning?
+
+**Machine Learning (Supervised)** techniques automatically learn a model of the relationship between a set of descriptive features and a target feature from a set of historical examples.
+
+- ML uses a **training dataset** to induce a **prediction model**.
+- This model is then used to make predictions for new, unseen query instances.
+- **Prediction Model Example:** An `if-then-else` rule, such as `if LOAN-SALARY RATIO > 3 then OUTCOME='default' else OUTCOME='repay' end if`.
+- A **consistent prediction model** is one that perfectly aligns with the given historical data.
+- Feature design and feature selection are crucial aspects, as models may use derived features (e.g., a ratio) or only a subset of available features.
+- The real value of machine learning is evident in building prediction models from large datasets with multiple features.
+
+## How Does Machine Learning Work?
+
+Machine learning algorithms operate by searching through a set of possible prediction models to find the model that best captures the relationship between descriptive and target features.
+
+- **Search Criteria:** An initial criterion is to find models consistent with the training data.
+
+### The Challenge: ML as an Ill-posed Problem
+
+Machine learning is often described as an **ill-posed problem**.
+
+- This is because a **training dataset is only a sample** of the true underlying data distribution.
+- Consequently, it is common that **more than one candidate model** can be found that is consistent with the training data. A unique solution cannot be guaranteed based solely on a sample training dataset.
+- **Consistency** with the dataset is akin to **memorising the dataset**.
+- The **goal** is a model that **generalises beyond the training dataset** and is not unduly influenced by noise present in the dataset.
+
+### Inductive Bias
+
+To overcome the ill-posed nature of ML, **inductive bias** is necessary.
+
+- **Inductive bias** is defined as the set of assumptions that specify the model selection criteria of a machine learning algorithm.
+- It guides the algorithm to learn relationships _beyond_ the dataset itself.
+- **Two types of inductive bias:**
+    - **Restriction bias:** Limits the set of possible models the algorithm can consider.
+    - **Preference bias:** Establishes a preference for certain models over others within the considered set (e.g., simpler models).
+- **Summary of ML Working Principles:** ML algorithms guide their search for models using two sources of information:
+    1. The **training data**.
+    2. The **inductive bias** of the algorithm.
+
+## What Can Go Wrong With ML?
+
+Choosing the **wrong inductive bias** can lead to significant problems. There is "no free lunch".
+
+- **Underfitting:** Occurs when the model is too simple to capture the underlying relationships in the data. It fails to learn from the training data sufficiently.
+- **Overfitting:** Occurs when the model learns the training data too well, including its noise and idiosyncrasies, leading to poor generalisation to new, unseen data. An overfit model "memorises" the dataset rather than learning general patterns.
+- **Common Pitfall/Misconception:** The **hardest part of machine learning** is striking the right balance between model complexity and simplicity – effectively, finding the sweet spot between **underfitting and overfitting**.
+
+**Families of Machine Learning Algorithms (Course Overview):**
+
+1. Information based learning
+2. Similarity based learning
+3. Probability based learning
+4. Error based learning
+5. Deep learning
+
+## The Predictive Data Analytics Project Lifecycle: CRISP-DM
+
+The **CRISP-DM (Cross-Industry Standard Process for Data Mining)** process outlines six key phases in a predictive data analytics project:
+
+1. **Business Understanding**
+2. **Data Understanding**
+3. **Data Preparation**
+4. **Modeling**
+5. **Evaluation**
+6. **Deployment**
+
+## Summary
+
+Machine Learning techniques automatically learn relationships from historical data to make predictions. ML is an ill-posed problem, necessitating inductive bias for generalisation. The key challenges involve generalisation, inductive bias selection, and avoiding underfitting and overfitting by finding the optimal balance between model complexity and simplicity.
+
+## Possible Exam-Style Questions
+
+Based on the provided lecture material and past exam papers, the following questions are highly probable:
+
+- **Explain why machine learning is often described as an ill-posed problem and give an example.** (This question was asked in the 2023/24 exam)
+- **What is the inductive bias of a machine learning algorithm? Give an example.** (This question was asked in the 2023/24 exam)
+- **Explain on an example what can go wrong when a machine learning classifier uses the wrong inductive bias.** (This question was asked in the 2023/24 exam)
+- **Explain what overfitting is in machine learning. Provide an example to illustrate.** (This question was asked in the 2024/25 exam, similar to the 2023/24 question on wrong inductive bias)
+- **What is the difference between restriction bias and preference bias? Give an example of each.** (This question was asked in the 2024/25 exam)
+- **Define Predictive Data Analytics and provide examples of its applications.**
+- **Explain the concept of a consistent prediction model and its implications for generalisation.**
+- **Briefly outline the key phases of the CRISP-DM process.**
 
 
 

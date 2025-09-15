@@ -7,10 +7,8 @@ Use this prompt when processing a lecture PDF in NotebookLM. The goal is to crea
     
 2. Extract key definitions, formulas, and algorithms in bullet point form.
     
-3. Highlight common pitfalls / misconceptions students often make.
+3. Suggest possible exam-style questions **by cross-referencing the uploaded past exam PDFs (if available)**. If no exam papers are provided, skip this step.
     
-4. Suggest possible exam-style questions **by cross-referencing the uploaded past exam PDFs (if available)**. If no exam papers are provided, skip this step.
+4. Keep the writing concise and consistent with academic style, but not overly verbose.
     
-5. Keep the writing concise and consistent with academic style, but not overly verbose.
-    
-6. Do NOT invent extra material — only use the uploaded lecture and exam PDFs."
+5. Do NOT invent extra material — only use the uploaded lecture and exam PDFs."
