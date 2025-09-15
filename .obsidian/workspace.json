@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NotebookLM Flashcard Prompt.md",
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NotebookLM Flashcard Prompt"
+              "title": "Test"
             }
           }
         ]
@@ -173,13 +173,14 @@
   },
   "active": "481646e14d83ada0",
   "lastOpenFiles": [
+    "Templates/Flashcard Template.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  -> Introduction to Advanced SecurityTags.md",
+    "Templates/NotebookLM Flashcard Prompt.md",
     "Exams/2025 Exam Q4b.md",
     "Exams",
     "Templates/Weekly Lecture Note.md",
     "Templates/NotebookLM Prompt.md",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
-    "Templates/Flashcard Template.md",
     "CMPU 4003 23-24.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
@@ -190,7 +191,6 @@
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "README.md",
-    "Templates/NotebookLM Flashcard Prompt.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
     "CMPU4003 - Advanced Databases/Flashcards/Test.md.md",
     "Welcome.md"
