@@ -1,4 +1,14 @@
 
+---
+Week: 1
+Module: [CMPU4011 - Machine Learning for Predictive Analytics]
+Topic: [Fundamentals of Machine Learning]
+Tags: #lecture #weekX #CMPU4011 
+Linked Exam Qs: [[Exams/2022 Exam QX]] (add later)
+---
+
+## 📘 Summary
+
 ## What is Predictive Data Analytics?
 
 **Predictive Data Analytics** encompasses the business and data processes and computational models that enable a business to make data-driven decisions.
@@ -72,13 +82,46 @@ The **CRISP-DM (Cross-Industry Standard Process for Data Mining)** process outli
 5. **Evaluation**
 6. **Deployment**
 
-## Summary
 
-Machine Learning techniques automatically learn relationships from historical data to make predictions. ML is an ill-posed problem, necessitating inductive bias for generalisation. The key challenges involve generalisation, inductive bias selection, and avoiding underfitting and overfitting by finding the optimal balance between model complexity and simplicity.
+## 🔑 Key Concepts & Definitions
 
-## Possible Exam-Style Questions
+## Core Concepts
 
-Based on the provided lecture material and past exam papers, the following questions are highly probable:
+**Predictive Data Analytics** → The business and data processes and computational models that enable a business to make data-driven decisions.
+
+**Machine Learning (Supervised)** → Techniques that automatically learn a model of the relationship between a set of descriptive features and a target feature from a set of historical examples.
+
+**Training Dataset** → The historical data used by ML algorithms to induce a prediction model.
+
+**Prediction Model** → A model used to make predictions for new, unseen query instances (e.g., an if-then-else rule).
+
+**Consistent Prediction Model** → A model that perfectly aligns with the given historical data.
+
+## Problem Characteristics
+
+**Ill-posed Problem** → A characteristic of machine learning where a training dataset is only a sample of the true underlying data distribution, meaning more than one candidate model can be found that is consistent with the training data.
+
+**Consistency** → Being aligned with the dataset, which is akin to memorising the dataset.
+
+## Bias and Model Selection
+
+**Inductive Bias** → The set of assumptions that specify the model selection criteria of a machine learning algorithm, guiding it to learn relationships beyond the dataset itself.
+
+**Restriction Bias** → A type of inductive bias that limits the set of possible models the algorithm can consider.
+
+**Preference Bias** → A type of inductive bias that establishes a preference for certain models over others within the considered set (e.g., simpler models).
+
+## Common Problems
+
+**Underfitting** → Occurs when the model is too simple to capture the underlying relationships in the data and fails to learn from the training data sufficiently.
+
+**Overfitting** → Occurs when the model learns the training data too well, including its noise and idiosyncrasies, leading to poor generalisation to new, unseen data. An overfit model "memorises" the dataset rather than learning general patterns.
+
+## Process Framework
+
+**CRISP-DM (Cross-Industry Standard Process for Data Mining)** → A process that outlines six key phases in a predictive data analytics project: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment.
+
+## 🎯 Possible Exam-Style Questions
 
 - **Explain why machine learning is often described as an ill-posed problem and give an example.** (This question was asked in the 2023/24 exam)
 - **What is the inductive bias of a machine learning algorithm? Give an example.** (This question was asked in the 2023/24 exam)
@@ -91,3 +134,8 @@ Based on the provided lecture material and past exam papers, the following quest
 
 
 
+## 🔗 Related Diagrams
+- [[Assets/WeekX - Topic Diagram.excalidraw]]
+
+## 🔄 Links
+- Next Lecture: [[Week X+1 - Topic]]

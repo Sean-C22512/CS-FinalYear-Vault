@@ -10,6 +10,59 @@ Linked Exam Qs: [[Exams/2022 Exam QX]] (add later)
 
 ## 📘 Summary
 
+## What is Predictive Data Analytics?
+
+**Predictive Data Analytics** encompasses the business and data processes and computational models that enable a business to make data-driven decisions.
+
+- **Example Applications:** Price Prediction, Fraud Detection, Dosage Prediction, Risk Assessment, Propensity modelling, Diagnosis, Document Classification.
+- It involves moving from data to insights to decisions.
+
+## What is Machine Learning?
+
+**Machine Learning (Supervised)** techniques automatically learn a model of the relationship between a set of descriptive features and a target feature from a set of historical examples.
+
+- ML uses a **training dataset** to induce a **prediction model**.
+- This model is then used to make predictions for new, unseen query instances.
+- **Prediction Model Example:** An `if-then-else` rule, such as `if LOAN-SALARY RATIO > 3 then OUTCOME='default' else OUTCOME='repay' end if`.
+- A **consistent prediction model** is one that perfectly aligns with the given historical data.
+- Feature design and feature selection are crucial aspects, as models may use derived features (e.g., a ratio) or only a subset of available features.
+- The real value of machine learning is evident in building prediction models from large datasets with multiple features.
+
+## How Does Machine Learning Work?
+
+Machine learning algorithms operate by searching through a set of possible prediction models to find the model that best captures the relationship between descriptive and target features.
+
+- **Search Criteria:** An initial criterion is to find models consistent with the training data.
+
+### The Challenge: ML as an Ill-posed Problem
+
+Machine learning is often described as an **ill-posed problem**.
+
+- This is because a **training dataset is only a sample** of the true underlying data distribution.
+- Consequently, it is common that **more than one candidate model** can be found that is consistent with the training data. A unique solution cannot be guaranteed based solely on a sample training dataset.
+- **Consistency** with the dataset is akin to **memorising the dataset**.
+- The **goal** is a model that **generalises beyond the training dataset** and is not unduly influenced by noise present in the dataset.
+
+### Inductive Bias
+
+To overcome the ill-posed nature of ML, **inductive bias** is necessary.
+
+- **Inductive bias** is defined as the set of assumptions that specify the model selection criteria of a machine learning algorithm.
+- It guides the algorithm to learn relationships _beyond_ the dataset itself.
+- **Two types of inductive bias:**
+    - **Restriction bias:** Limits the set of possible models the algorithm can consider.
+    - **Preference bias:** Establishes a preference for certain models over others within the considered set (e.g., simpler models).
+- **Summary of ML Working Principles:** ML algorithms guide their search for models using two sources of information:
+    1. The **training data**.
+    2. The **inductive bias** of the algorithm.
+
+## What Can Go Wrong With ML?
+
+Choosing the **wrong inductive bias** can lead to significant problems. There is "no free lunch".
+
+- **Underfitting:** Occurs when the model is too simple to capture the underlying relationships in the data. It fails to learn from the training data sufficiently.
+- **Overfitting:** Occurs when the model learns the training data too well, including its noise and idiosyncrasies, leading to poor generalisation to new, unseen data. An overfit model "memorises" the dataset rather than learning general patterns.
+- **Common Pitfall/Misconception:** The **hardest part of machine learning** is striking the right balance between model complexity and simplicity – effectively, finding the sweet spot between **underfitting and overfitting**.
 
 **Families of Machine Learning Algorithms (Course Overview):**
 

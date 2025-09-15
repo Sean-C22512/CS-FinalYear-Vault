@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Weekly Lecture Note.md",
+                "file": "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Lecture Note"
+              "title": "Week 1 - Introduction to Advanced Security"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "45e34459b57f2dac",
   "lastOpenFiles": [
-    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
-    "Templates/NotebookLM Prompt.md",
-    "Templates/Weekly Lecture Note.md",
     "Templates/NotebookLM Flashcard Prompt.md",
+    "Templates/NotebookLM Prompt.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
+    "Templates/Weekly Lecture Note.md",
     "Resources/To-do.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/0.ML_module_overview.pdf",
