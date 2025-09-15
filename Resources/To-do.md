@@ -1,0 +1,3 @@
+- [ ] Summarise Machine Learning 🔽 🔁 #CMPU4011
+- [ ] Machine Learning pandas lab📅 
+- [ ] 
