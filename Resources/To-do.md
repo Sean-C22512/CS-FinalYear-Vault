@@ -1,3 +1,3 @@
-- [ ] Summarise Machine Learning 🔽 🔁 #CMPU4011
+- [ ] Summarise Machine Learning and flashcards 🔽 🔁 #CMPU4011
 - [ ] Machine Learning pandas lab📅 
-- [ ] 
+- [ ] Stripe 0/9🔺 
