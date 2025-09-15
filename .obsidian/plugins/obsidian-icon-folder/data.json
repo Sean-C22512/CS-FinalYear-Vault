@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👨‍🔬",
       "🏢",
       "✅",
       "🥩",
-      "📔",
-      "🗂"
+      "📔"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,6 @@
   "CMPU4003 - Advanced Databases/Diagrams": "🖼",
   "CMPU4027 - Final Year Project/Diagrams": "🖼",
   "CMPU4050 - Systems Integration/Diagrams": "🖼",
-  "Resources/Assets": "🏢"
+  "Resources/Assets": "🏢",
+  "CMPU4011 - Machine Learning for Predictive Analytics/Labs": "👨‍🔬"
 }

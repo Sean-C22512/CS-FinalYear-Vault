@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d0d203ca09d59d3",
+        "id": "01db6dbfe877df99",
         "type": "tabs",
         "children": [
           {
-            "id": "2be4bbdaf13f6f15",
+            "id": "49e3f30e2e99bb04",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lec-01"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +167,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2be4bbdaf13f6f15",
+  "active": "d170abe4e41e5792",
   "lastOpenFiles": [
+    "CMPU4011 - Machine Learning for Predictive Analytics/Labs",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
@@ -190,14 +193,10 @@
     "Templates/NotebookLM Flashcard Prompt.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Weekly Lecture Note.md",
-    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
     "Templates/Flashcard Template.md",
     "Exams",
     "CMPU 4003 23-24.pdf",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.md",
     "README.md",
     "CMPU4003 - Advanced Databases/Flashcards/Test.md.md",
