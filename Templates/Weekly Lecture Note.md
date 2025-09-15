@@ -83,13 +83,11 @@ The **CRISP-DM (Cross-Industry Standard Process for Data Mining)** process outli
 5. **Evaluation**
 6. **Deployment**
 
-## Summary
 
-Machine Learning techniques automatically learn relationships from historical data to make predictions. ML is an ill-posed problem, necessitating inductive bias for generalisation. The key challenges involve generalisation, inductive bias selection, and avoiding underfitting and overfitting by finding the optimal balance between model complexity and simplicity.
+## 🔑 Key Concepts & Definitions
+- [Term] → [Definition]
 
-## Possible Exam-Style Questions
-
-Based on the provided lecture material and past exam papers, the following questions are highly probable:
+## 🎯 Possible Exam-Style Questions
 
 - **Explain why machine learning is often described as an ill-posed problem and give an example.** (This question was asked in the 2023/24 exam)
 - **What is the inductive bias of a machine learning algorithm? Give an example.** (This question was asked in the 2023/24 exam)
@@ -100,12 +98,6 @@ Based on the provided lecture material and past exam papers, the following quest
 - **Explain the concept of a consistent prediction model and its implications for generalisation.**
 - **Briefly outline the key phases of the CRISP-DM process.**
 
-## 🔑 Key Concepts & Definitions
-- [Term] → [Definition]
-
-## 🎯 Possible Exam-Style Questions
-- Q: [Predicted exam question]
-- A: [[Link to concept above or lecture notes]]
 
 
 ## 🔗 Related Diagrams
