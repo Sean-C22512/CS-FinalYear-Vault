@@ -53,6 +53,7 @@
     - **Security mechanism:** A process or device designed to detect, prevent, or recover from a security attack.
     - **Security service:** A processing or communication service enhancing system/data transfer security, intended to counter attacks using security mechanisms.
 - **Security Attacks**
+	- [CMPU 4007 22-23](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2022-23.pdf)
     - Classified into **passive attacks** and **active attacks**.
     - **Passive Attacks:** Attempt to learn from the system without altering resources; involve eavesdropping or monitoring.
         - **Release of message contents:** Opponent obtains transmitted information.
