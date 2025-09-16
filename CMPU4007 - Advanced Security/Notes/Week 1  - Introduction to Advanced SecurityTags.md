@@ -31,7 +31,10 @@
     - Network and Internet security involves measures to deter, prevent, detect, and correct security violations concerning information transmission.
     - **Computer security** is defined by NIST as "the protection afforded to an automated information system in order to attain the applicable objectives of preserving the integrity, availability and confidentiality of information system resources".
 - **Computer Security Objectives (CIA Triad, Authenticity, Accountability)**
+
+- [CMPU 4007 21-22](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2021-22.pdf)1(a)
 - [CMPU 4007 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2023-24.pdf)1(b)
+	
     - The core objectives form the **CIA Triad**:
         - **Confidentiality:** Protects private/confidential information from unauthorized disclosure. This includes **Data confidentiality** (information not disclosed) and **Privacy** (individuals control information about them).
         - **Integrity:** Ensures information and programs are changed only in authorized ways. This includes **Data integrity** (information changed only as specified) and **System integrity** (system performs as intended, free from manipulation).
@@ -40,6 +43,8 @@
         - **Authenticity:** Verifies user identity and trusted source of input.
         - **Accountability:** Ensures actions of an entity can be uniquely traced to that entity.
 - **Breach of Security Levels of Impact**
+	- [CMPU 4007 21-22](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2021-22.pdf)1(a)
+	- [CMPU 4007 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2023-24.pdf)1(b)
     - Impact levels are categorized as:
         - **High:** Severe or catastrophic adverse effect on operations, assets, or individuals.
         - **Moderate:** Serious adverse effect on operations, assets, or individuals.
@@ -54,9 +59,10 @@
     - **Security mechanism:** A process or device designed to detect, prevent, or recover from a security attack.
     - **Security service:** A processing or communication service enhancing system/data transfer security, intended to counter attacks using security mechanisms.
 - **Security Attacks**
-	- [CMPU 4007 22-23](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2022-23.pdf)
+	- [CMPU 4007 22-23](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2022-23.pdf)1(a)
     - Classified into **passive attacks** and **active attacks**.
     - **Passive Attacks:** Attempt to learn from the system without altering resources; involve eavesdropping or monitoring.
+	    - [CMPU 4007 21-22](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2021-22.pdf)1(b)
         - **Release of message contents:** Opponent obtains transmitted information.
         - **Traffic analysis:** Monitoring transmissions to gather information.
     - **Active Attacks:** Attempt to alter system resources or affect their operation, difficult to prevent due to vulnerabilities; goal is detection and recovery.
@@ -65,6 +71,7 @@
         - **Modification of messages:** Altering part of a legitimate message, delaying, or reordering it for unauthorized effects.
         - **Denial of service:** Prevents or inhibits normal use of communication facilities.
 - **Security Services (X.800 Categories)**
+	- [CMPU 4007 22-23](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2022-23.pdf)1(a)
     - X.800 defines specific services:
         - **Authentication:** Assures communication is authentic, verifying sender identity for messages or entities in ongoing interactions.
             - Includes Peer entity authentication and Data origin authentication.
