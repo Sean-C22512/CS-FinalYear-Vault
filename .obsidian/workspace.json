@@ -11,10 +11,14 @@
             "id": "49e3f30e2e99bb04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -167,8 +171,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d170abe4e41e5792",
+  "active": "49e3f30e2e99bb04",
   "lastOpenFiles": [
+    "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.py",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
@@ -196,7 +201,6 @@
     "Templates/Weekly Lecture Note.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
     "Templates/Flashcard Template.md",
-    "Exams",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.md",
     "README.md",
     "CMPU4003 - Advanced Databases/Flashcards/Test.md.md",
