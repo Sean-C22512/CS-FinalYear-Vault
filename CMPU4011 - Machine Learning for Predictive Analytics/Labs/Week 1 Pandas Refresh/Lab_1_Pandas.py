@@ -14,6 +14,15 @@ print(loans[2][5])
 # You can read more about Series in this tutorial. Try out the examples!
 # https://towardsdatascience.com/gaining-a-solid-understanding-of-pandas-series-893fb8f785aa 
 
+#You can use df.columns to set the headings of your dataframe, e.g. 
+
+loans.columns = ['id', 'occupation', 'age', 'loan-to-salary', 'outcome']
+print(loans['age'])
+
+#Now you can access the list of all ages but referring to that feature by its name
+
+
+
 
 
 
