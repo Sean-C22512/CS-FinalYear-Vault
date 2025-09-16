@@ -11,10 +11,14 @@
             "id": "d49817c701c02f06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics"
             }
           }
         ]
@@ -167,8 +171,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d170abe4e41e5792",
+  "active": "d49817c701c02f06",
   "lastOpenFiles": [
+    "Users/seancleary/Downloads/Lab 1.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/~$b 1 - Pandas.docx",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Lab_1_Pandas.py",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/winemag-data-130k-v2.csv",
@@ -176,14 +181,12 @@
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/loans.csv",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Lab 1 - Pandas.docx",
     "Users/seancleary/Downloads/().md",
-    "Users/seancleary/Downloads/Lab 1.md",
     "Users/seancleary/Downloads",
     "Users/seancleary",
     "Users",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Link to lab.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.py",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
