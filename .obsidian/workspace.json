@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+                "file": "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1  - Introduction to Advanced SecurityTags"
+              "title": "Week 1 - Introduction to Advanced Security"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Lec-01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -185,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "036c43fb2f52faf7",
+  "active": "d49817c701c02f06",
   "lastOpenFiles": [
+    "Resources/To-do.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
@@ -207,7 +206,6 @@
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "2025-09-15.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Diagrams/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics (Assets).md",
-    "Resources/To-do.md",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
     "Resources/Assets/Pasted image 20250915221257.png",
     "Exams/2025 Exam Q4b.md",
