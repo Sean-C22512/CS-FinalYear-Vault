@@ -33,7 +33,8 @@
               "title": "Lec-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d49817c701c02f06",
+  "active": "036c43fb2f52faf7",
   "lastOpenFiles": [
+    "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
     "Resources/To-do.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
@@ -202,7 +204,6 @@
     "Users/seancleary",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Link to lab.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
-    "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "2025-09-15.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Diagrams/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics (Assets).md",
