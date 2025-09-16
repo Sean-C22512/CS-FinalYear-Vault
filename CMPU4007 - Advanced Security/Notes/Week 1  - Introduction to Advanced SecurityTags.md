@@ -31,6 +31,7 @@
     - Network and Internet security involves measures to deter, prevent, detect, and correct security violations concerning information transmission.
     - **Computer security** is defined by NIST as "the protection afforded to an automated information system in order to attain the applicable objectives of preserving the integrity, availability and confidentiality of information system resources".
 - **Computer Security Objectives (CIA Triad, Authenticity, Accountability)**
+- [CMPU 4007 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2023-24.pdf)1(b)
     - The core objectives form the **CIA Triad**:
         - **Confidentiality:** Protects private/confidential information from unauthorized disclosure. This includes **Data confidentiality** (information not disclosed) and **Privacy** (individuals control information about them).
         - **Integrity:** Ensures information and programs are changed only in authorized ways. This includes **Data integrity** (information changed only as specified) and **System integrity** (system performs as intended, free from manipulation).
