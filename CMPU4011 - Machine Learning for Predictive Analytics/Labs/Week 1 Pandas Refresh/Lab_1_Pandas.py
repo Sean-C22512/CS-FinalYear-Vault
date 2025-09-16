@@ -1,5 +1,10 @@
+
+
 # Q4
 import pandas as pd
+import os
+
+os.system('clear')
 loans = pd.read_csv('loans.csv', header=None)  # Use relative path since the file is in the same directory
 
 # Q5
