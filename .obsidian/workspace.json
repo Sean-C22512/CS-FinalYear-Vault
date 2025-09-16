@@ -11,10 +11,14 @@
             "id": "dbf7d2cadec6350c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Link to lab.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Link to lab"
             }
           }
         ]
@@ -167,10 +171,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d170abe4e41e5792",
+  "active": "dbf7d2cadec6350c",
   "lastOpenFiles": [
+    "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Link to lab.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.py",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
@@ -190,7 +195,6 @@
     "Exams/2025 Exam Q4b.md",
     "Resources/Assets.md",
     "Resources/Assets",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics (Flashcards).md",
     "Templates/NotebookLM Flashcard Prompt.md",
