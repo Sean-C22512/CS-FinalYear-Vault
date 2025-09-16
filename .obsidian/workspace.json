@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01db6dbfe877df99",
+        "id": "4975419d8ce0a197",
         "type": "tabs",
         "children": [
           {
-            "id": "aee477a49fbb71ba",
+            "id": "d49817c701c02f06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Users/seancleary/Downloads/Lab 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab 1"
+              "title": "New tab"
             }
           }
         ]
@@ -171,7 +167,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "aee477a49fbb71ba",
+  "active": "d170abe4e41e5792",
   "lastOpenFiles": [
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/~$b 1 - Pandas.docx",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Lab_1_Pandas.py",
