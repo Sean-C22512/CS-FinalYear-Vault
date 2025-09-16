@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "test.py"
+            }
+          },
+          {
+            "id": "46f0378cc00816d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test.py"
+            }
+          },
+          {
+            "id": "dbf7d2cadec6350c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,9 +196,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "49e3f30e2e99bb04",
+  "active": "dbf7d2cadec6350c",
   "lastOpenFiles": [
-    "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.py.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.py",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
