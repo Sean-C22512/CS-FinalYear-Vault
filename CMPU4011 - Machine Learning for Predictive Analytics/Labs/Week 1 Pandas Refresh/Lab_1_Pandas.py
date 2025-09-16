@@ -2,17 +2,23 @@
 import pandas as pd
 loans = pd.read_csv('loans.csv', header=None)  # Use relative path since the file is in the same directory
 
-# #5
+# Q5
 # print(loans[2])
 # print("\n\n\n")
 # print(loans[2][5])
 
-# #6
+# Q6
 loans.columns = ['id', 'occupation', 'age', 'loan-to-salary', 'outcome']
 # print(f"loans['age'] - >\n{loans['age']}")
 # print("\n\n\n")
 # print(f"loans.age - >\n{loans.age}")
 
-#7
+# Q7
+#print(loans.dtypes)
+# You can change the type of the data by using astype( ) function
+# for example if you wanted to change 'age' to a float
+#loans['age'] = loans['age'].astype(float)
 
-print(loans.dtypes)
+# Q8
+#print(loans.head())
+print(loans[1:4])
