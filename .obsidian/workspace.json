@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d49817c701c02f06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4007 23-24"
-            }
-          },
-          {
-            "id": "a106884a18167508",
+            "id": "6220207a0c8e93f1",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -32,19 +20,7 @@
             }
           },
           {
-            "id": "036c43fb2f52faf7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lec-01"
-            }
-          },
-          {
-            "id": "6220207a0c8e93f1",
+            "id": "65c87ffb8d17a78f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -68,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +194,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6220207a0c8e93f1",
+  "active": "65c87ffb8d17a78f",
   "lastOpenFiles": [
-    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
-    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
+    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
+    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
