@@ -49,15 +49,18 @@
             "id": "ea5319061e41181a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf"
+                "file": "Resources/To-do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4011 24-25"
+              "icon": "lucide-file",
+              "title": "To-do"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -208,12 +210,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "65c87ffb8d17a78f",
+  "active": "ea5319061e41181a",
   "lastOpenFiles": [
+    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "Resources/To-do.md",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
