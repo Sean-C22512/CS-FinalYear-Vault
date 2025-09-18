@@ -35,12 +35,18 @@ Machine learning algorithms operate by searching through a set of possible predi
 
 ### The Challenge: ML as an Ill-posed Problem
 
-Machine learning is often described as an **ill-posed problem**.
+Machine learning is often described as an **ill-posed problem because:**.
 
-- This is because a **training dataset is only a sample** of the true underlying data distribution.
-- Consequently, it is common that **more than one candidate model** can be found that is consistent with the training data. A unique solution cannot be guaranteed based solely on a sample training dataset.
-- **Consistency** with the dataset is akin to **memorising the dataset**.
-- The **goal** is a model that **generalises beyond the training dataset** and is not unduly influenced by noise present in the dataset.
+1. We want models that **generalize** beyond the training data.
+    
+2. This requires choosing an **inductive bias** (assumptions about the hypothesis space).
+    
+3. Too simple a model leads to **underfitting** (poor training & test performance).
+    
+4. Too complex a model leads to **overfitting** (great training performance but poor generalization).
+    
+
+Thus, the central challenge of ML is to strike the right balance between **simplicity and complexity** so the problem becomes effectively well-posed.
 
 ### Inductive Bias
 
