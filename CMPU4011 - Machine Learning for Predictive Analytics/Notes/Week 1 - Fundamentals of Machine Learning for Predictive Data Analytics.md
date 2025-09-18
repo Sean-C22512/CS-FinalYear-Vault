@@ -46,7 +46,7 @@ Machine learning is often described as an **ill-posed problem because:**.
 4. Too complex a model leads to **overfitting** (great training performance but poor generalization).
     
 
-Thus, the central challenge of ML is to strike the right balance between **simplicity and complexity** so the problem becomes effectively well-posed.
+Thus, the central challenge of ML is to strike the right balance between **simplicity and complexity** (between underfitting and overfitting) is the hardest part of machine learning.
 
 ### Inductive Bias [CMPU 4011 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4011%20-%20Machine%20Learning%20for%20Predictive%20Analytics%2FExams%2FCMPU%204011%2023-24.pdf)Q1(B)
 
