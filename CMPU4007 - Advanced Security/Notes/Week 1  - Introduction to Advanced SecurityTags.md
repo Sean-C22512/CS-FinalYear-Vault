@@ -82,7 +82,7 @@
             - **Connectionless integrity service:** Protects individual messages, primarily against modification.
         - **Nonrepudiation:** Prevents sender or receiver from denying a transmitted message, allowing proof of sending or receiving.
 - **Security Mechanisms (X.800)**
-    - **Specific Security Mechanisms:** Encipherment, Digital signatures, Access controls, Data integrity, Authentication exchange, Traffic padding, Routing control, Notarization.
+    - **Specific Security Mechanisms:** Encipherment, Digital signatures, Access controls, Data integrity, Authentication exchange, Traffic padding, Routing control, Notarization. [CMPU 4007 24-25](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4007%20-%20Advanced%20Security%2FExams%2FCMPU%204007%2024-25.pdf)4(a)
     
 	**Encipherment** The use of mathematical algorithms to transform data into a form that is not readily intelligible, requiring an algorithm and encryption keys for recovery.
 	
