@@ -5,5 +5,7 @@
   "code-emitter",
   "obsidian-tasks-plugin",
   "obsidian-advanced-uri",
-  "custom-file-viewer"
+  "custom-file-viewer",
+  "colored-text",
+  "highlightr-plugin"
 ]

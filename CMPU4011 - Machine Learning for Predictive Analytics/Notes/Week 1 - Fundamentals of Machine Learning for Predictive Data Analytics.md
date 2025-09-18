@@ -33,7 +33,7 @@ Machine learning algorithms operate by searching through a set of possible predi
 
 - **Search Criteria:** An initial criterion is to find models consistent with the training data.
 
-### The Challenge: ML as an Ill-posed Problem [CMPU 4011 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4011%20-%20Machine%20Learning%20for%20Predictive%20Analytics%2FExams%2FCMPU%204011%2023-24.pdf)Q1(a)
+### The Challenge: ML as an Ill-posed Problem [CMPU 4011 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4011%20-%20Machine%20Learning%20for%20Predictive%20Analytics%2FExams%2FCMPU%204011%2023-24.pdf)<span style="color:rgb(0, 0, 0)">Q1(a)</span>
 
 Machine learning is often described as an **ill-posed problem because:**.
 
@@ -63,7 +63,7 @@ To overcome the ill-posed nature of ML, **inductive bias** is necessary.
 
 ## What Can Go Wrong With ML?
 
-Choosing the **wrong inductive bias** can lead to significant problems. There is "no free lunch".
+Choosing the **wrong inductive bias** can lead to significant problems. There is "no free lunch". [CMPU 4011 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4011%20-%20Machine%20Learning%20for%20Predictive%20Analytics%2FExams%2FCMPU%204011%2023-24.pdf)<span style="color:rgb(0, 0, 0)">1(c)</span>
 
 - **Underfitting:** Occurs when the model is too simple to capture the underlying relationships in the data. It fails to learn from the training data sufficiently.
 - **Overfitting:** Occurs when the model learns the training data too well, including its noise and idiosyncrasies, leading to poor generalisation to new, unseen data. An overfit model "memorises" the dataset rather than learning general patterns.
