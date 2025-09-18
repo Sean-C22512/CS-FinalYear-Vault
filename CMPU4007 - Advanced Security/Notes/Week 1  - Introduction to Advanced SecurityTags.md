@@ -83,6 +83,23 @@
         - **Nonrepudiation:** Prevents sender or receiver from denying a transmitted message, allowing proof of sending or receiving.
 - **Security Mechanisms (X.800)**
     - **Specific Security Mechanisms:** Encipherment, Digital signatures, Access controls, Data integrity, Authentication exchange, Traffic padding, Routing control, Notarization.
+    
+	**Encipherment** The use of mathematical algorithms to transform data into a form that is not readily intelligible, requiring an algorithm and encryption keys for recovery.
+	
+	**Digital Signature** A cryptographic transformation or data appended to a data unit that allows recipients to verify the source and integrity while protecting against forgery.
+	
+	**Access Control** A variety of mechanisms that enforce access rights to resources.
+
+	**Data Integrity** A variety of mechanisms used to assure the integrity of a data unit or stream of data units.
+	
+	**Authentication Exchange** A mechanism intended to ensure the identity of an entity by means of information exchange.
+	
+	**Traffic Padding** The insertion of bits into gaps in a data stream to frustrate traffic analysis attempts.
+	
+	**Routing Control** Enables selection of particular physically secure routes for certain data and allows routing changes, especially when a breach of security is suspected.
+	
+	**Notarization** The use of a trusted third party to assure certain properties of a data exchange.
+
     - **Pervasive Security Mechanisms:** Trusted functionality, Security labels, Event detection, Security audit trails, Security recovery.
 
 ### Network Access Security Model
