@@ -52,7 +52,7 @@ Thus, the central challenge of ML is to strike the right balance between **simpl
 
 To overcome the ill-posed nature of ML, **inductive bias** is necessary.
 	
-- **Inductive bias** is defined as the set of assumptions that specify the model selection criteria of a machine learning algorithm.
+- **Inductive bias** is defined as the set of assumptions that define the model selection criteria of an ML algorithm.
 - It guides the algorithm to learn relationships _beyond_ the dataset itself.
 - **Two types of inductive bias:**
     - **Restriction bias:** Limits the set of possible models the algorithm can consider.
