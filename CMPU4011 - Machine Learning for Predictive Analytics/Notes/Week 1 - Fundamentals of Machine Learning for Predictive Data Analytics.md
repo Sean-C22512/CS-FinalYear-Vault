@@ -33,7 +33,7 @@ Machine learning algorithms operate by searching through a set of possible predi
 
 - **Search Criteria:** An initial criterion is to find models consistent with the training data.
 
-### The Challenge: ML as an Ill-posed Problem
+### The Challenge: ML as an Ill-posed Problem [CMPU 4011 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4011%20-%20Machine%20Learning%20for%20Predictive%20Analytics%2FExams%2FCMPU%204011%2023-24.pdf)Q1(a)
 
 Machine learning is often described as an **ill-posed problem because:**.
 
@@ -48,10 +48,10 @@ Machine learning is often described as an **ill-posed problem because:**.
 
 Thus, the central challenge of ML is to strike the right balance between **simplicity and complexity** so the problem becomes effectively well-posed.
 
-### Inductive Bias
+### Inductive Bias [CMPU 4011 23-24](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4011%20-%20Machine%20Learning%20for%20Predictive%20Analytics%2FExams%2FCMPU%204011%2023-24.pdf)Q1(B)
 
 To overcome the ill-posed nature of ML, **inductive bias** is necessary.
-
+	
 - **Inductive bias** is defined as the set of assumptions that specify the model selection criteria of a machine learning algorithm.
 - It guides the algorithm to learn relationships _beyond_ the dataset itself.
 - **Two types of inductive bias:**
