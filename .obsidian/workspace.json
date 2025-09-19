@@ -20,27 +20,17 @@
             }
           },
           {
-            "id": "8545ab3114041f12",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "L1a Data Models-1"
-            }
-          },
-          {
             "id": "32272c2276d133b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf"
+                "file": "Templates/Weekly Lecture Note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "L1a Data Models-1"
+              "icon": "lucide-file",
+              "title": "Weekly Lecture Note"
             }
           }
         ],
@@ -194,11 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "8545ab3114041f12",
+  "active": "32272c2276d133b1",
   "lastOpenFiles": [
+    "Templates/NotebookLM Prompt.md",
+    "Templates/Weekly Lecture Note.md",
     "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
-    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
+    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "Resources/To-do.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
@@ -225,8 +217,6 @@
     "Resources/Assets.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics (Flashcards).md",
     "Templates/NotebookLM Flashcard Prompt.md",
-    "Templates/NotebookLM Prompt.md",
-    "Templates/Weekly Lecture Note.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
     "Templates/Flashcard Template.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.md",
