@@ -2,6 +2,8 @@ import pandas as pd
 import os
 
 os.system('clear')
-wines = pd.read_csv('winemag-data-130k-v2.csv')
+reviews = pd.read_csv('winemag-data-130k-v2.csv')
+desc = reviews['description']
+first_description = desc[1]
 
-print(wines.head())
+print(first_description)
