@@ -45,7 +45,8 @@
               "title": "Lec-01"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,11 +196,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "80d19464953c7296",
+  "active": "32272c2276d133b1",
   "lastOpenFiles": [
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
     "CMPU4007 - Advanced Security/Exams/Untitled.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
