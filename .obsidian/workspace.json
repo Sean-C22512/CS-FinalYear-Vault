@@ -37,12 +37,14 @@
             "id": "32272c2276d133b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
+                "file": "Resources/To-do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lec-01"
+              "icon": "lucide-file",
+              "title": "To-do"
             }
           }
         ],
@@ -198,9 +200,11 @@
   },
   "active": "32272c2276d133b1",
   "lastOpenFiles": [
+    "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
+    "Resources/Assets/CMPU-2011 CRISP-DM process.png",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
-    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4007 - Advanced Security/Exams/Untitled.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
@@ -218,10 +222,8 @@
     "Users/seancleary/Downloads/().md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Link to lab.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/test.md",
-    "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "2025-09-15.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Diagrams/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics (Assets).md",
-    "Resources/Assets/CMPU-2011 CRISP-DM process.png",
     "Resources/Assets/Pasted image 20250915221257.png",
     "Exams/2025 Exam Q4b.md",
     "Resources/Assets.md",
