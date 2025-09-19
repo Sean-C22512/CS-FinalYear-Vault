@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +208,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d50972c9239de9cf",
+  "active": "b1d92ebe77a979a7",
   "lastOpenFiles": [
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "Templates/Weekly Lecture Note.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/tempCodeRunnerFile.py",
     "CMPU4011 - Machine Learning for Predictive Analytics/Labs/Week 1 Pandas Refresh/Lab_1_PD_Wines.py",
