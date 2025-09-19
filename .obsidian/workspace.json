@@ -45,8 +45,7 @@
               "title": "Lec-01"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "32272c2276d133b1",
+  "active": "80d19464953c7296",
   "lastOpenFiles": [
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
