@@ -7,6 +7,7 @@ desc = reviews['description']
 #first_description = reviews.description.iloc[1]
 first_row = reviews.iloc[0]
 first_descriptions = reviews.description.iloc[0:10]
+sample_reviews = reviews.iloc[[1,2,3,5,8]]
 
 
 
