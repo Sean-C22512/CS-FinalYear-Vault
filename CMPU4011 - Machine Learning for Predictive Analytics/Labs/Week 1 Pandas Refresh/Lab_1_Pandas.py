@@ -6,6 +6,7 @@ import os
 
 os.system('clear')
 loans = pd.read_csv('loans.csv', header=None)  # Use relative path since the file is in the same directory
+wines = pd.read_csv('winemag-data-130k-v2.csv')  # Use relative path since the file is in the same directory
 
 # Q5
 # print(loans[2])
