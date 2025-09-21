@@ -5,6 +5,6 @@
 - [x] Summarise Machine Learning and flashcards 🔽 🔁 #CMPU4011 ✅ 2025-09-15
 - [ ] Summarise Sys Int 🔁 every week #CMPU4050
 - [ ] Complete Sys Int lab
-- [ ] 24/25 Q1(a-b) finish hand draw notes #CMPU4011 
+- [x] 24/25 Q1(a-b) finish hand draw notes #CMPU4011 ✅ 2025-09-21
 - [ ] Hand Draw Notes For Adv Sec #CMPU4007 
 
