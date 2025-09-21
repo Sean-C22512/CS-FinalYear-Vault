@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "7c5dd66aa8657433",
+            "id": "1d34f81de2b63929",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "1d34f81de2b63929",
+            "id": "8f7bf31762bcb212",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -196,15 +196,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "1d34f81de2b63929",
+  "active": "8f7bf31762bcb212",
   "lastOpenFiles": [
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
-    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
-    "CMPU4007 - Advanced Security/Exams/Untitled.md",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf.sb-084c147d-6KAyTL",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
+    "CMPU4007 - Advanced Security/Exams/Untitled.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf.sb-084c147d-6KAyTL",
     "Resources/To-do.md",
     "README.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
