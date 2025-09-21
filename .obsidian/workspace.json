@@ -45,8 +45,7 @@
               "title": "CMPU 4011 24-25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1cb37a0465339a74",
+  "active": "465eef2db1b8851a",
   "lastOpenFiles": [
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
