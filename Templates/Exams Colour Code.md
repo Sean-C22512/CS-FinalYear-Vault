@@ -1,1 +1,4 @@
-- <span style="color:rgb(255, 255, 0)">yellow</span> 
+- <span style="color:rgb(255, 255, 0)">yellow</span> -> Week 1 Notes
+- <span style="color:rgb(0, 0, 255)">blue</span> -> Week 2 Notes
+- <span style="color:rgb(0, 255, 0)">green</span> -> Week 3 Notes
+- <span style="color:rgb(255, 0, 0)">red</span> -> Week 4 Notes
