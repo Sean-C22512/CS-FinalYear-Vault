@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b420446d4a699c78",
+            "id": "d9667c8d86aea74c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 4007 22-23"
+            }
+          },
+          {
+            "id": "7c5dd66aa8657433",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,19 +34,19 @@
             }
           },
           {
-            "id": "d9667c8d86aea74c",
+            "id": "1d34f81de2b63929",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf"
+                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CMPU 4007 24-25"
+              "title": "Lec-01"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,12 +196,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "d9667c8d86aea74c",
+  "active": "1d34f81de2b63929",
   "lastOpenFiles": [
+    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
+    "CMPU4007 - Advanced Security/Exams/Untitled.md",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf.sb-084c147d-6KAyTL",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
-    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
-    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "Resources/To-do.md",
     "README.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
@@ -198,15 +213,11 @@
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
     "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "Templates/Weekly Lecture Note.md",
     "Templates/NotebookLM Prompt.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
-    "CMPU4007 - Advanced Security/Exams/Untitled.md",
     "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
     "CMPU4007 - Advanced Security/Notes/Introduction to Advanced Security.md",
     "Users/seancleary/Downloads/Lab 1.md",
