@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "b420446d4a699c78",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1.What is ML and Predictive Data Analytics"
+            }
+          },
+          {
             "id": "1cb37a0465339a74",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "CMPU 4011 24-25"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,12 +196,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "465eef2db1b8851a",
+  "active": "1cb37a0465339a74",
   "lastOpenFiles": [
-    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
     "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
