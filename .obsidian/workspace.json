@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/To-do.md",
+                "file": "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do"
+              "title": "Week 1 Requirements"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "48c91f89e2027781",
   "lastOpenFiles": [
-    "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
     "Resources/To-do.md",
+    "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
     "Templates/Weekly Lecture Note.md",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
