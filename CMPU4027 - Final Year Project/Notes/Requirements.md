@@ -1,1 +1,0 @@
-on AVG 20 hrs per week

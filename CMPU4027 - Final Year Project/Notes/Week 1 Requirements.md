@@ -1,0 +1,4 @@
+- on AVG 20 hrs per week
+- job fair ?
+- interim report , requires prototype , week 11 1/5 of marks
+- Zot
