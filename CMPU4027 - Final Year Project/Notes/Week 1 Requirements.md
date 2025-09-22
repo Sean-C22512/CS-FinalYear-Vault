@@ -6,4 +6,4 @@
 - Supervisors wont be subject matter experts /  specific lecturers for certain technologies / when emailing , say for example ('hi i remember you thought us 'x' and was looking for clarifcation)
 - Unique idea 'inspired(copy)' by other ideas 
 - https://www.tudublin.ie/library/search-resources/dissertations-theses/
-- 
+- Weekly logs contain EVERYTHING , create git repo , going to track commits
