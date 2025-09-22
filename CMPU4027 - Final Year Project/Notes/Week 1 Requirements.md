@@ -4,4 +4,4 @@
 - <span style="color:rgb(0, 0, 0)">Zotero</span> ?  or ..... / url (copy) / little comment - > page info-> why you visited 'x' website 
 - You engage supervisor / asks clarifying questions to gain insights / often ... not too often
 - Supervisors wont be subject matter experts /  specific lecturers for certain technologies 
-- Unique idea 'inspried'
+- Unique idea 'inspired(copy)' by other ideas 
