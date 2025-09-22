@@ -5,6 +5,7 @@ Module: [CMPU4011 - Machine Learning for Predictive Analytics]
 Topic: [Fundamentals of Machine Learning]
 Tags: #lecture #weekX #CMPU4011 
 Linked Exam Qs: [[Exams/2022 Exam QX]] (add later)
+https://drive.google.com/drive/u/0/folders/1D1NtC6hKJ6_-zsR1isQOXmIP0ALOFg1M
 ---
 
 ## 📘 Summary
