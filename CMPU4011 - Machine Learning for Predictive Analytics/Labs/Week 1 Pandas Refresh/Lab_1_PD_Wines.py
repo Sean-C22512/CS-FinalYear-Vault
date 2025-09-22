@@ -24,7 +24,6 @@ top_oceania_wines = reviews.loc[reviews.country.isin(['Australia','New Zealand']
 top_wines = reviews.loc[reviews.points >= 99]
 #print(top_wines)
 
-
 # 2.) Identify the price of the most expensive wine on the list of top wines
 most_expensive = top_wines.loc[top_wines.points.idxmax()]
 
