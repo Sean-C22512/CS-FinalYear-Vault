@@ -139,10 +139,3 @@ The **CRISP-DM (Cross-Industry Standard Process for Data Mining)** process outli
 - **Explain the concept of a consistent prediction model and its implications for generalisation.**
 - **Briefly outline the key phases of the CRISP-DM process.**
 
-
-
-## 🔗 Related Diagrams
-- [[Assets/WeekX - Topic Diagram.excalidraw]]
-
-## 🔄 Links
-- Next Lecture: [[Week X+1 - Topic]]
