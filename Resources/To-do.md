@@ -1,6 +1,6 @@
 <h2>Week 1  -> 15/10/25 </h2>
 
-- [ ] Machine Learning pandas lab📅 
+- [x] Machine Learning pandas lab📅 ✅ 2025-09-22
 - [x] Stripe 2/7🔺  / sys design read again ✅ 2025-09-19
 - [x] CMPU 4007 -> images / diagrams ✅ 2025-09-18
 - [x] Summarise Machine Learning  🔽 #CMPU4011 ✅ 2025-09-15
