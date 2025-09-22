@@ -12,6 +12,13 @@ sample_reviews = reviews.iloc[[1,2,3,5,8]]
 rows = [0,1,10,100]
 cols = ['country', 'province', 'region_1', 'region_2']r
 df = reviews.loc[rows][cols]
+df2 = reviews.loc[rows, cols]
+df3 = reviews.loc[0:100, 'country':'region_2']
+df4 = reviews.iloc[0:100, 0:4]
+print(df4)
+print(df3)
+print(df2)
+print(df)
 
 
 
