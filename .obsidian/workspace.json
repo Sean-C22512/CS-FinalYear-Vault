@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2615907f2e9ad4f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 4003 23-24"
+            }
+          },
+          {
             "id": "47e5d891507ea377",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Week 1 - Data Models"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +196,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "5aaa218ceedb3d7c",
+  "active": "2615907f2e9ad4f6",
   "lastOpenFiles": [
-    "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
-    "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
-    "Resources/To-do.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
+    "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
+    "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
+    "Resources/To-do.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "Templates/Exams Colour Code.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
