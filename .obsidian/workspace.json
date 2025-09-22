@@ -11,6 +11,20 @@
             "id": "ff61562f4a6c16d8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2 - Data to Insights to Decisions"
+            }
+          },
+          {
+            "id": "58d45d87a6d443c0",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf"
@@ -76,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -172,8 +185,9 @@
   },
   "active": "ff61562f4a6c16d8",
   "lastOpenFiles": [
-    "Resources/To-do.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
+    "Resources/To-do.md",
     "README.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
@@ -208,7 +222,6 @@
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics (Flashcards).md",
     "Templates/NotebookLM Flashcard Prompt.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Flashcards/Test.md",
-    "Templates/Flashcard Template.md",
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.md"
+    "Templates/Flashcard Template.md"
   ]
 }
