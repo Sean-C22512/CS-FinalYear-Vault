@@ -46,17 +46,15 @@
             }
           },
           {
-            "id": "48c91f89e2027781",
+            "id": "f81df2f2ba9d5289",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Week 1 Requirements"
+              "icon": "lucide-file-text",
+              "title": "L1a Data Models-1"
             }
           }
         ],
@@ -210,13 +208,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "48c91f89e2027781",
+  "active": "f81df2f2ba9d5289",
   "lastOpenFiles": [
-    "Resources/To-do.md",
+    "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
     "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
+    "Resources/To-do.md",
     "Templates/Weekly Lecture Note.md",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
-    "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
