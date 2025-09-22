@@ -8,3 +8,6 @@
 - https://www.tudublin.ie/library/search-resources/dissertations-theses/
 - Weekly logs contain EVERYTHING , create git repo , going to track commits
 - Analysis technique MUST BE FROM lectures , if not 0 marks 
+- If use gen-ai copy of prompt/ cite , / appenidx of gen a.i.
+- 
+  
