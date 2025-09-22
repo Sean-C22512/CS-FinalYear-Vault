@@ -13,3 +13,4 @@
 <h2>Week 2  -> 21/10/25 </h2>
 - [ ] Revise Hand Drawn Week 1
 - [ ] Research FYP
+- [ ] Notebook Lm for FYP

@@ -1,4 +1,7 @@
 - on AVG 20 hrs per week
 - job fair ?
 - interim report , requires prototype , week 11 1/5 of marks
-- Zot
+- <span style="color:rgb(0, 0, 0)">Zotero</span> ?  or ..... / url (copy) / little comment - > page info-> why you visited 'x' website 
+- You engage supervisor / asks clarifying questions to gain insights / often ... not too often
+- Supervisors wont be subject matter experts /  specific lecturers for certain technologies 
+- Unique idea 'inspried'
