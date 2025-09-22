@@ -77,12 +77,3 @@ Implementing derived features requires combining data from multiple sources. Fre
 
 ---
 
-### Possible Exam-Style Questions
-
-While the provided exam papers (CMPU 4011 23-24 [47–53] and CMPU 4011 24-25 [54–59]) primarily focus on calculating ML metrics (confusion matrix, precision, recall) and algorithm application (k-NN, Naïve Bayes, Entropy), the foundational content from Chapter 2 is typically tested through definition and explanation questions:
-
-1. **Project Context and Feasibility:** Explain the process of **Assessing Feasibility** for a proposed predictive analytics solution. What two key questions must be addressed? (Referenced content:).
-2. **ABT Design:** Describe the structure and purpose of the **Analytics Base Table (ABT)**. Explain the importance of the **prediction subject** and the principle of "one-row-per-subject." (Referenced content:).
-3. **Feature Types:** Differentiate between **raw features** and **derived features**. Provide and explain the purpose of four common types of derived features (e.g., ratio, aggregate, flag). (Referenced content:).
-4. **Temporal Modeling:** When building propensity models, explain and differentiate between the **observation period** and the **outcome period**, using an example such as the motor insurance claim fraud scenario to illustrate when these periods might be aligned to an event rather than a fixed date. (Referenced content:).
-5. **Legal Constraints:** Discuss how **Data Protection Legislation** influences the design of an ABT, outlining three key principles relevant to data analytics practitioners. (Referenced content:).

@@ -33,7 +33,8 @@
               "title": "2.Data_to_Insights_to_Decisions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -183,10 +185,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff61562f4a6c16d8",
+  "active": "58d45d87a6d443c0",
   "lastOpenFiles": [
-    "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
     "Resources/To-do.md",
     "README.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
