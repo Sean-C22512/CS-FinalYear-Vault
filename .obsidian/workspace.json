@@ -11,14 +11,12 @@
             "id": "ff61562f4a6c16d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/To-do.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf"
               },
-              "icon": "lucide-file",
-              "title": "To-do"
+              "icon": "lucide-file-text",
+              "title": "2.Data_to_Insights_to_Decisions"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -173,6 +172,8 @@
   },
   "active": "ff61562f4a6c16d8",
   "lastOpenFiles": [
+    "Resources/To-do.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
     "README.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/1.What is ML and Predictive Data Analytics.pdf",
@@ -180,7 +181,6 @@
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
-    "Resources/To-do.md",
     "Templates/Weekly Lecture Note.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
@@ -191,7 +191,6 @@
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
     "CMPU4007 - Advanced Security/Exams/Untitled.md",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf.sb-084c147d-6KAyTL",
     "Templates/NotebookLM Prompt.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
