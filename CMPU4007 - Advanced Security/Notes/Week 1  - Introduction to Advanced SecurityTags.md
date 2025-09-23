@@ -1,4 +1,4 @@
-
+https://tudublin-my.sharepoint.com/personal/aneel_rahim_tudublin_ie/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faneel%5Frahim%5Ftudublin%5Fie%2FDocuments%2FAdvance%20Security%201&ga=1
 ---
 
 ## Week: 1 Module: CMPU 4007 - Advanced Security 1 Topic: Introduction to Advanced Security Tags: #lecture #week1 #CMPU4007 Linked Exam Qs: [[Exams/2022 Exam Q1a]] [[Exams/2022 Exam Q1b]] [[Exams/2022 Exam Q2b]] [[Exams/2022 Exam Q4a]] [[Exams/2023 Exam Q1a]] [[Exams/2023 Exam Q2b]] [[Exams/2023 Exam Q4a]] [[Exams/2024 Exam Q1b]] [[Exams/2024 Exam Q2a]] [[Exams/2024 Exam Q3c]] [[Exams/2025 Exam Q2a]] [[Exams/2025 Exam Q3c]] [[Exams/2025 Exam Q4b]]
