@@ -11,12 +11,14 @@
             "id": "b63db141528acc26",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf"
+                "file": "Resources/To-do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "L0-Module Intro"
+              "icon": "lucide-file",
+              "title": "To-do"
             }
           },
           {
@@ -43,8 +45,7 @@
               "title": "0.ML_module_overview"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +195,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "68ab5bbf437ea782",
+  "active": "b63db141528acc26",
   "lastOpenFiles": [
-    "Resources/Exam - CA.md",
+    "Resources/📊Exam - CA.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
+    "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
+    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+    "Templates/Weekly Lecture Note.md",
+    "Templates/NotebookLM Prompt.md",
+    "Templates/Exams Colour Code.md",
     "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
-    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Raw/0.ML_module_overview.pdf",
     "Resources/To-do.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
@@ -211,13 +218,7 @@
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
-    "Templates/Weekly Lecture Note.md",
-    "CMPU4007 - Advanced Security/Labs/Advanced Security 1 - Assignment 1.pdf",
-    "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
-    "Templates/NotebookLM Prompt.md",
     "README.md",
-    "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
-    "Templates/Exams Colour Code.md",
     "CMPU4007 - Advanced Security/Exams/Untitled.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
