@@ -5,7 +5,7 @@ Week: X
 Module: [Module Code - Module Name]
 Topic: [Lecture Topic]
 Tags: #lecture #weekX #[module]
-Linked Exam Qs: [[Exams/2022 Exam QX]] (add later)
+
 ---
 
 ## 📘 Summary
