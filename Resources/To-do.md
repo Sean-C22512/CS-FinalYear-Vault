@@ -14,6 +14,6 @@
 - [ ] Revise Hand Drawn Week 1
 - [ ] Research FYP
 - [ ] Notebook Lm for FYP
-- [x] Summarise Machine Learning WK 2 #CMPU4011 🔽 ✅ 2025-09-2
-- [ ] 
+- [x] Summarise Machine Learning WK 2 #CMPU4011 ✅ 2025-09-23
+- [ ] Hand Draw Notes For Adv Sec #CMPU4007
 - [ ] Ca : exam ratio 
