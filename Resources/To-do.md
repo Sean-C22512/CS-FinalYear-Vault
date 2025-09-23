@@ -15,3 +15,4 @@
 - [ ] Research FYP
 - [ ] Notebook Lm for FYP
 - [ ] Summarise Machine Learning WK 2  🔽 #CMPU4011 
+- [ ] Ca : exam ratio 
