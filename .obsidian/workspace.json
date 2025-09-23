@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b63db141528acc26",
+            "id": "68d9ac8c6a78fa35",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -57,6 +57,20 @@
               },
               "icon": "lucide-file-text",
               "title": "L1a Data Models-1"
+            }
+          },
+          {
+            "id": "b63db141528acc26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/To-do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To-do"
             }
           },
           {
@@ -234,9 +248,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b63db141528acc26",
+  "active": "68d9ac8c6a78fa35",
   "lastOpenFiles": [
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
+    "Resources/To-do.md",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
     "Pasted image 20250923140241.png",
     "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
@@ -252,7 +267,6 @@
     "CMPU4007 - Advanced Security/Labs/Advanced Security 1 - Assignment 1.docx",
     "CMPU4007 - Advanced Security/Labs",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
-    "Resources/To-do.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "Templates/NotebookLM Prompt.md",
     "README.md",

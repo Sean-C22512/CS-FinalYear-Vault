@@ -8,7 +8,7 @@
 - [ ] Complete Sys Int lab + Create NoteBookLM
 - [x] 24/25 Q1(a-b) finish hand draw notes #CMPU4011 ✅ 2025-09-21
 - [x] Hand Draw Notes For Adv Sec #CMPU4007 ✅ 2025-09-21
-- [ ] Finish Hand Draw Adv DB's #CMPU4003
+- [x] Finish Hand Draw Adv DB's #CMPU4003 ✅ 2025-09-23
 
 <h2>Week 2  -> 21/10/25 </h2>
 - [ ] Revise Hand Drawn Week 1
