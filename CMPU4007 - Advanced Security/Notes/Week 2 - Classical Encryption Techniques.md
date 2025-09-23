@@ -1,13 +1,13 @@
-Here’s your content reformatted into the `.md` lecture template you provided:
+
 
 ```markdown
-# Week X - Classical Encryption Techniques
+# Week 2 - Classical Encryption Techniques
 
 ---
 Week: 2  
 Module: [CMPU4007 - Advanced Security]  
 Topic: Classical Encryption Techniques  
-Tags: #lecture #weekX #[module]  
+Tags: #lecture #week2 #CMPU4007   
 
 ---
 
