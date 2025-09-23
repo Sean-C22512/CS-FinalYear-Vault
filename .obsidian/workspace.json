@@ -13,34 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Labs/Advanced Security 1 - Assignment 1.pdf"
+                "file": "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Advanced Security 1 - Assignment 1"
-            }
-          },
-          {
-            "id": "cea145b0f4ab602e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4011 23-24"
-            }
-          },
-          {
-            "id": "449371be383e33f6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4011 24-25"
+              "title": "L1a Data Models-1"
             }
           }
         ]
@@ -100,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -196,8 +171,8 @@
   },
   "active": "ff61562f4a6c16d8",
   "lastOpenFiles": [
-    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4007 - Advanced Security/Labs/Advanced Security 1 - Assignment 1.pdf",
+    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "Resources/Untitled.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
     "CMPU4007 - Advanced Security/Labs/~$vanced Security 1 - Assignment 1.docx",
