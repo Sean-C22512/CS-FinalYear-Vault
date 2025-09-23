@@ -11,67 +11,40 @@
             "id": "b63db141528acc26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/To-do.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf"
               },
-              "icon": "lucide-file",
-              "title": "To-do"
+              "icon": "lucide-file-text",
+              "title": "L0-Module Intro"
             }
           },
           {
-            "id": "7a3ba45bb40d752d",
+            "id": "676dce4c30c7e126",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf"
+                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CMPU 4011 23-24"
-            }
-          },
-          {
-            "id": "05f8abf5858eaef2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4011 24-25"
-            }
-          },
-          {
-            "id": "5e15e0d4f0d981b9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2.Data_to_Insights_to_Decisions"
+              "title": "Lec-01"
             }
           },
           {
             "id": "68ab5bbf437ea782",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4011 - Machine Learning for Predictive Analytics/Raw/0.ML_module_overview.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Week 2 - Data to Insights to Decisions"
+              "icon": "lucide-file-text",
+              "title": "0.ML_module_overview"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -222,25 +194,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "b63db141528acc26",
+  "active": "68ab5bbf437ea782",
   "lastOpenFiles": [
-    "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
+    "Resources/Exam - CA.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
+    "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
+    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+    "Resources/To-do.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf",
-    "Resources/To-do.md",
     "Pasted image 20250923140241.png",
-    "Resources/Exam - CA.md",
     "CMPU4003 - Advanced Databases/Raw/L1a Data Models-1.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
-    "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "Templates/Weekly Lecture Note.md",
     "CMPU4007 - Advanced Security/Labs/Advanced Security 1 - Assignment 1.pdf",
-    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
-    "CMPU4007 - Advanced Security/Labs/~$vanced Security 1 - Assignment 1.docx",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "Templates/NotebookLM Prompt.md",
     "README.md",
