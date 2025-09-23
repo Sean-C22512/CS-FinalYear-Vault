@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
+                "file": "CMPU4007 - Advanced Security/Raw/lec-02.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lec-01"
+              "title": "lec-02"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "0.ML_module_overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,20 +196,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "b63db141528acc26",
+  "active": "676dce4c30c7e126",
   "lastOpenFiles": [
-    "Templates/Weekly Lecture Note.md",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
+    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
+    "Templates/NotebookLM Prompt.md",
+    "Templates/Weekly Lecture Note.md",
     "Resources/To-do.md",
     "Resources/📊Exam - CA.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
-    "Templates/NotebookLM Prompt.md",
     "Templates/Exams Colour Code.md",
     "CMPU4003 - Advanced Databases/Raw/L0-Module Intro.pdf",
-    "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/0.ML_module_overview.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
