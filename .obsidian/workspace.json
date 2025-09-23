@@ -23,12 +23,14 @@
             "id": "328ea36711888782",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Raw/lec-02.pdf"
+                "file": "Resources/To-do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lec-02"
+              "icon": "lucide-file",
+              "title": "To-do"
             }
           },
           {
@@ -103,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -199,8 +200,8 @@
   },
   "active": "328ea36711888782",
   "lastOpenFiles": [
-    "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
+    "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "Templates/Weekly Lecture Note.md",
