@@ -31,7 +31,7 @@ Linked Exam Qs: [[Exams/2022 Exam QX]] (add later)
 **B. Column-Oriented Family (e.g., Cassandra)**
 - **Structure:** Multi-dimensional hash map, wide column stores, uses CQL.  
 - **Strengths:** Efficient storage, distributed/replicated, flexible schemas.  
-- **Weaknesses:** Limited querying, no joins, poor aggregation, costly non-point queries.
+- **Weaknesses:** Limited querying, no joins, poor aggregation, costly non-point queries (value look-ups).
 
 **C. Key-Value Stores (e.g., Redis)**
 - **Structure:** Distributed hash map with unique key-value pairs.  
