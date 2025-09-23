@@ -16,4 +16,4 @@
 - [ ] Notebook Lm for FYP
 - [x] Summarise Machine Learning WK 2 #CMPU4011 ✅ 2025-09-23
 - [ ] Hand Draw Notes For Adv Sec #CMPU4007
-- [ ] Ca : exam ratio (fyp,sys int) 
+- [ ] Ca : exam ratio (fyp,sys int) [📊Exam - CA](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=Resources%2F%F0%9F%93%8AExam%20-%20CA.md)
