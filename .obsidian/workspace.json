@@ -71,8 +71,7 @@
               "title": "Week 2 - Data to Insights to Decisions"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,11 +222,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "68ab5bbf437ea782",
+  "active": "b63db141528acc26",
   "lastOpenFiles": [
-    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Raw/2.Data_to_Insights_to_Decisions.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
+    "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 24-25.pdf",
     "CMPU4011 - Machine Learning for Predictive Analytics/Exams/CMPU 4011 23-24.pdf",
     "Resources/To-do.md",
     "Pasted image 20250923140241.png",
