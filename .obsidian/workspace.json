@@ -11,12 +11,14 @@
             "id": "676dce4c30c7e126",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf"
+                "file": "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Generic System App Feasibility Study cod Full 1140"
+              "icon": "lucide-file",
+              "title": "Week 1 Requirements"
             }
           },
           {
@@ -195,6 +197,7 @@
   },
   "active": "676dce4c30c7e126",
   "lastOpenFiles": [
+    "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
     "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf",
     "CMPU4027 - Final Year Project/Requirements/Guidelines-on-the-Responsible-Use-of-Generative-Artificial-Intelligence-in-Teaching-and-Learning-13.5.25.pdf",
     "CMPU4027 - Final Year Project/Requirements/Update to Rubric v405.pdf",
@@ -202,7 +205,6 @@
     "CMPU4027 - Final Year Project/Logs/Week 1.md",
     "CMPU4027 - Final Year Project/Logs",
     "CMPU4027 - Final Year Project/Requirements/Untitled",
-    "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4027 - Final Year Project/Requirements/~$date to Rubric v405.docx",
     "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD.pdf",
