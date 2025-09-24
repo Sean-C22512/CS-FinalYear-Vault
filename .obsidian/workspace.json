@@ -11,12 +11,14 @@
             "id": "676dce4c30c7e126",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf"
+                "file": "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4007 24-25"
+              "icon": "lucide-file",
+              "title": "Week 1  - Introduction to Advanced SecurityTags"
             }
           },
           {
@@ -186,11 +188,11 @@
   },
   "active": "676dce4c30c7e126",
   "lastOpenFiles": [
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
     "Resources/To-do.md",
     "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "Templates/Weekly Lecture Note.md",
     "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
