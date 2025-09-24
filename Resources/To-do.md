@@ -12,8 +12,8 @@
 
 <h2>Week 2  -> 21/10/25 </h2>
 - [ ] Revise Hand Drawn Week 1
-- [ ] Research FYP
-- [ ] Notebook Lm for FYP
+- [x] Research FYP ✅ 2025-09-24
+- [x] Notebook Lm for FYP ✅ 2025-09-24
 - [x] Summarise Machine Learning WK 2 #CMPU4011 ✅ 2025-09-23
 - [ ] Hand Draw Notes For Adv Sec WK2 #CMPU4007
 - [ ] Ca : exam ratio (fyp,sys int) [📊Exam - CA](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=Resources%2F%F0%9F%93%8AExam%20-%20CA.md)
