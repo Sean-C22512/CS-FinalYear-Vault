@@ -8,20 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8eced6b64e7d713",
+            "id": "1a231c1b158b01c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/To-do.md",
+                "file": "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do"
+              "title": "Week 1 - Introduction & Linux Foundation"
+            }
+          },
+          {
+            "id": "9a567dfff179c500",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week 1 — Introduction & Linux Foundation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,18 +184,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8eced6b64e7d713",
+  "active": "9a567dfff179c500",
   "lastOpenFiles": [
-    "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
+    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
+    "Resources/To-do.md",
+    "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
     "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
     "Templates/Weekly Lecture Note.md",
-    "Resources/To-do.md",
     "Resources/📊Exam - CA.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Exams Colour Code.md",
     "README.md",
-    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
