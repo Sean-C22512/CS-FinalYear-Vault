@@ -34,18 +34,6 @@
             }
           },
           {
-            "id": "7fad1b4de957ee3d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4050 24-25"
-            }
-          },
-          {
             "id": "53d7790a69b7c83a",
             "type": "leaf",
             "state": {
@@ -55,6 +43,18 @@
               },
               "icon": "lucide-file-text",
               "title": "CMPU 4050 23-24"
+            }
+          },
+          {
+            "id": "7fad1b4de957ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 4050 24-25"
             }
           },
           {
@@ -223,12 +223,12 @@
   },
   "active": "9a567dfff179c500",
   "lastOpenFiles": [
-    "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
-    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
-    "Resources/To-do.md",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
+    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
+    "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
+    "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
+    "Resources/To-do.md",
     "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
     "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
     "Templates/Weekly Lecture Note.md",
