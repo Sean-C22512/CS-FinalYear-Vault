@@ -20,3 +20,4 @@
 - [x] Hand Draw Sys Int Week 1 #CMPU4050 ✅ 2025-09-25
 - [ ] Hand Draw Sys Int Week 2 #CMPU4050 
 - [ ] Clarify what exactly is meant by "*Analysis technique MUST BE FROM lectures , if not 0 marks*" [Week 1 Requirements](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4027%20-%20Final%20Year%20Project%2FRequirements%2FWeek%201%20Requirements.md)
+- [ ] Hand Draw Adv DB's #CMPU4003 

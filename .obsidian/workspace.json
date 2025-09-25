@@ -11,12 +11,14 @@
             "id": "9bfaa2401a6eb2b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png"
+                "file": "Resources/To-do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "CMPU-2011 Underfitting vs Overfitting"
+              "icon": "lucide-file",
+              "title": "To-do"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
+                "file": "Resources/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU-2011 Underfitting vs Overfitting"
+              "title": "Backlinks for To-do"
             }
           },
           {
@@ -171,6 +173,8 @@
   },
   "active": "9bfaa2401a6eb2b2",
   "lastOpenFiles": [
+    "Resources/Sem1 - Assessment Schdule.xlsx",
+    "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
     "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/CMPU4003-W2-Practical Class.pdf",
@@ -200,7 +204,6 @@
     "Pasted image 20250923140241.png",
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
     "CMPU4007 - Advanced Security/Exams/Untitled.md",
-    "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
     "CMPU4007 - Advanced Security/Notes/Introduction to Advanced Security.md",
     "Users/seancleary/Downloads/Lab 1.md",
