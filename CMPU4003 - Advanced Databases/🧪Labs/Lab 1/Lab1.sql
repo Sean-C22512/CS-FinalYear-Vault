@@ -65,6 +65,39 @@ AS first_lang FROM students
 WHERE profile ? 'languages';
 
 
+--2.3 Working with Arrays and Nested Objects 
+--Expand assignments into rows to get the grades for each assignment for subject ML4001
+SELECT e.subject_code, a->>'name' AS assignment, (a->>'mark')::int 
+AS mark FROM enrollments e 
+CROSS JOIN LATERAL jsonb_array_elements(e.grades->'assignments') a
+WHERE subject_code = 'ML4001';
+
+-- Extract project marks 
+SELECT subject_code, grades#>>'{project,title}' AS project_title, 
+	(grades#>>'{project,mark}')::int AS mark 
+FROM enrollments 
+WHERE grades ? 'project';
+
+
+
+/*
+ 	2.4 JSONPath Queries A JSON path is like a query language (a bit like XPath for XML)
+ 	that lets you navigate inside a JSON document. 
+ 	• Think of a JSON document as a tree of objects and arrays. 
+ 	• A JSON path is a string (starting with $) that says “go here” inside that tree.
+ 	
+ 	Examples: 
+ 	• $ → the root of the JSON document 
+ 	• $.assignments → the assignments field 
+ 	• $.assignments[*].mark → all the mark values inside the assignments array 
+ 	• $.* → all the fields at the root, whatever their names
+*/
+
+-- Students with any grade (for anything assignment, final etc) >= 85 
+SELECT enrollment_id, subject_code 
+FROM enrollments 
+WHERE jsonb_path_exists(grades, '$.* ? (@ >= 85)');
+
 
 
 
