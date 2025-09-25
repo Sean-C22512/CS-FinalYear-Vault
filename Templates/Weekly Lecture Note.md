@@ -26,3 +26,6 @@ Tags: #lecture #weekX #[module]
 
 ## 🔄 Links
 - Next Lecture: [[Week X+1 - Topic]]
+
+
+format using this .md template

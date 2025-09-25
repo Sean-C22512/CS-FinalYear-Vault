@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a6fc0d14bf5a150b",
+        "id": "687b7c05accdd32a",
         "type": "tabs",
         "children": [
           {
-            "id": "676dce4c30c7e126",
+            "id": "e8eced6b64e7d713",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf"
+                "file": "Templates/NotebookLM Prompt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Generic System App Feasibility Study cod Full 1140"
-            }
-          },
-          {
-            "id": "1e26b630f1e9e7e1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Generic System App Feasibility Study cod Full 1140"
-            }
-          },
-          {
-            "id": "8df26ec73a605260",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01 Introduction and Process Overview COD V203"
+              "icon": "lucide-file",
+              "title": "NotebookLM Prompt"
             }
           }
         ]
@@ -193,26 +171,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d170abe4e41e5792",
+  "active": "e8eced6b64e7d713",
   "lastOpenFiles": [
-    "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
+    "Templates/Weekly Lecture Note.md",
+    "Templates/NotebookLM Prompt.md",
     "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
+    "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
+    "CMPU4050 - Systems Integration/🧪Labs/Lab 2 – Networking Fundamentals and Routing Configuration.pdf",
+    "CMPU4050 - Systems Integration/🧪Labs/Lab 1 – The Linux Command Line.pdf",
+    "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
     "CMPU4050 - Systems Integration/🧪Labs",
     "CMPU4027 - Final Year Project/Requirements/Guidelines-on-the-Responsible-Use-of-Generative-Artificial-Intelligence-in-Teaching-and-Learning-13.5.25.pdf",
     "CMPU4027 - Final Year Project/Requirements/Update to Rubric v405.pdf",
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf",
-    "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "Resources/To-do.md",
     "CMPU4027 - Final Year Project/Logs/Week 1.md",
     "CMPU4027 - Final Year Project/Logs",
-    "CMPU4027 - Final Year Project/Requirements/Untitled",
-    "CMPU4027 - Final Year Project/Requirements/~$date to Rubric v405.docx",
-    "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD.pdf",
-    "Templates/Weekly Lecture Note.md",
-    "Templates/NotebookLM Prompt.md",
     "Resources/📊Exam - CA.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
