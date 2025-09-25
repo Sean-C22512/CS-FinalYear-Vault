@@ -51,6 +51,8 @@ SELECT name, profile->>'major' AS major, (profile->>'age')::int AS age FROM stud
 -- Does profile contain exchange info?
 SELECT name FROM students WHERE profile ? 'exchange'; 
 
+
+
 -- Subjects with final mark >= 80 where final is cast as an integer 
 SELECT subject_code, (grades->>'final')::int AS final FROM enrollments WHERE (grades->>'final')::int >= 80;
 
@@ -127,9 +129,15 @@ UPDATE enrollments SET grades = jsonb_set(grades, '{final}', '90')
 WHERE subject_code = 'DB4003' AND student_id = 2;
 
 -- Remove remarks for enrollments in subject DB4003
-UPDATE enrollments 
-SET grades = grades - 'remarks' 
+UPDATE enrollments
+SET grades = grades || '{"ECTS": 5}'
 WHERE subject_code = 'DB4003';
+
+
+-- Exercise: 2. Remove the key midterm where present.
+UPDATE enrollments
+SET grades = grades - 'midterm'
+WHERE grades ? 'midterm';
 
 
 

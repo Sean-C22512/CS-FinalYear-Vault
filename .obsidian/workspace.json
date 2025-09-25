@@ -4,73 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "687b7c05accdd32a",
+        "id": "6551eafed46c14a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1a231c1b158b01c0",
+            "id": "9bfaa2401a6eb2b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png"
               },
-              "icon": "lucide-file",
-              "title": "Week 1 - Introduction & Linux Foundation"
-            }
-          },
-          {
-            "id": "9a567dfff179c500",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/CMPU4003-W2-Practical Class.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU4003-W2-Practical Class"
-            }
-          },
-          {
-            "id": "53d7790a69b7c83a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4050 23-24"
-            }
-          },
-          {
-            "id": "7fad1b4de957ee3d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/CMPU4003-W2-Practical Class.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU4003-W2-Practical Class"
-            }
-          },
-          {
-            "id": "878b93df1546689c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4050 22-23"
+              "icon": "lucide-image",
+              "title": "CMPU-2011 Underfitting vs Overfitting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -144,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/CMPU4003-W2-Practical Class.pdf",
+                "file": "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU4003-W2-Practical Class"
+              "title": "Backlinks for CMPU-2011 Underfitting vs Overfitting"
             }
           },
           {
@@ -221,21 +169,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a567dfff179c500",
+  "active": "9bfaa2401a6eb2b2",
   "lastOpenFiles": [
+    "Resources/Assets/CMPU-2011 CRISP-DM process.png",
+    "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
+    "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/CMPU4003-W2-Practical Class.pdf",
+    "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
+    "Resources/Assesment Schedule Sem 1",
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
     "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf",
-    "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/CMPU4003-W2-Practical Class.pdf",
     "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/Lab1.sql",
     "CMPU4003 - Advanced Databases/🧪Labs/Lab 1",
     "CMPU4007 - Advanced Security/Labs/Lab 1",
     "Resources/To-do.md",
     "CMPU4003 - Advanced Databases/🧪Labs",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
     "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
     "Templates/Weekly Lecture Note.md",
     "Resources/📊Exam - CA.md",
@@ -252,7 +201,6 @@
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
     "CMPU4007 - Advanced Security/Exams/Untitled.md",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
-    "Resources/Assets/CMPU-2011 CRISP-DM process.png",
     "CMPU4007 - Advanced Security/Flashcards/Week 1 - Introduction to Advanced Security.md",
     "CMPU4007 - Advanced Security/Notes/Introduction to Advanced Security.md",
     "Users/seancleary/Downloads/Lab 1.md",
