@@ -25,12 +25,14 @@
             "id": "35e59db72eb8a3d0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf"
+                "file": "Templates/NotebookLM Prompt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Week 2 — Networking Fundamentals and Routing"
+              "icon": "lucide-file",
+              "title": "NotebookLM Prompt"
             }
           },
           {
@@ -103,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
+                "file": "Templates/NotebookLM Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 2 — Networking Fundamentals and Routing"
+              "title": "Backlinks for NotebookLM Prompt"
             }
           },
           {
@@ -199,10 +200,13 @@
   },
   "active": "35e59db72eb8a3d0",
   "lastOpenFiles": [
-    "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
-    "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
+    "Templates/Weekly Lecture Note.md",
     "Resources/To-do.md",
+    "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
+    "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
+    "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
+    "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
+    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
     "Resources/Sem1 - Assessment Schdule.xlsx",
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
@@ -213,9 +217,6 @@
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
     "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
-    "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf",
-    "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/Lab1.sql",
-    "Templates/Weekly Lecture Note.md",
     "Resources/📊Exam - CA.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Exams Colour Code.md",
