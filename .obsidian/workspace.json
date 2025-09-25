@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
+                "file": "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 4050 23-24"
+              "title": "Backlinks for Week 1 — Introduction & Linux Foundation"
             }
           },
           {
@@ -221,10 +221,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "53d7790a69b7c83a",
+  "active": "9a567dfff179c500",
   "lastOpenFiles": [
-    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
+    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
