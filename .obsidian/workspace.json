@@ -49,14 +49,12 @@
             "id": "7fad1b4de957ee3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/To-do.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4003 - Advanced Databases/🧪Labs/CMPU4003-W2-Practical Class.pdf"
               },
-              "icon": "lucide-file",
-              "title": "To-do"
+              "icon": "lucide-file-text",
+              "title": "CMPU4003-W2-Practical Class"
             }
           },
           {
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/To-do.md",
+                "file": "CMPU4003 - Advanced Databases/🧪Labs/CMPU4003-W2-Practical Class.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-do"
+              "title": "Backlinks for CMPU4003-W2-Practical Class"
             }
           },
           {
@@ -225,8 +223,10 @@
   },
   "active": "7fad1b4de957ee3d",
   "lastOpenFiles": [
-    "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "Resources/To-do.md",
+    "CMPU4003 - Advanced Databases/🧪Labs/CMPU4003-W2-Practical Class.pdf",
+    "CMPU4003 - Advanced Databases/🧪Labs",
+    "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
     "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
@@ -244,8 +244,6 @@
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
     "CMPU4050 - Systems Integration/🧪Labs/Lab 2 – Networking Fundamentals and Routing Configuration.pdf",
-    "CMPU4050 - Systems Integration/🧪Labs/Lab 1 – The Linux Command Line.pdf",
-    "CMPU4050 - Systems Integration/🧪Labs",
     "CMPU4027 - Final Year Project/Logs/Week 1.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
