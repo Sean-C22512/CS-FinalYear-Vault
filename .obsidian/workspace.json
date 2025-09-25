@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf"
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CMPU 4003 24-25"
+              "title": "CMPU 4003 23-24"
             }
           },
           {
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 4003 24-25"
+              "title": "Backlinks for CMPU 4003 23-24"
             }
           },
           {
@@ -198,10 +199,12 @@
   },
   "active": "35e59db72eb8a3d0",
   "lastOpenFiles": [
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
     "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
     "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "Templates/Weekly Lecture Note.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Exams Colour Code.md",
@@ -215,7 +218,6 @@
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 22-23.pdf",
     "CMPU4003 - Advanced Databases/🧪Labs/Lab 1/CMPU4003-W2-Practical Class.pdf",
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
-    "Resources/Assesment Schedule Sem 1",
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "Resources/📊Exam - CA.md",
