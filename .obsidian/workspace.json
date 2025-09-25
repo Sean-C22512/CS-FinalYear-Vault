@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU4050 - Systems Integration/Notes/Week 1.md",
+                "file": "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1"
+              "title": "Week 1 - Introduction & Linux Foundation"
             }
           }
         ]
@@ -174,10 +174,10 @@
   "active": "e8eced6b64e7d713",
   "lastOpenFiles": [
     "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
-    "CMPU4050 - Systems Integration/Notes/Week 1.md",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
-    "Templates/Weekly Lecture Note.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+    "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
+    "Templates/Weekly Lecture Note.md",
     "Templates/NotebookLM Prompt.md",
     "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
     "CMPU4050 - Systems Integration/🧪Labs/Lab 2 – Networking Fundamentals and Routing Configuration.pdf",
