@@ -32,6 +32,18 @@
               "icon": "lucide-file-text",
               "title": "Week 1 — Introduction & Linux Foundation"
             }
+          },
+          {
+            "id": "7fad1b4de957ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 4050 24-25"
+            }
           }
         ],
         "currentTab": 1
@@ -91,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/NotebookLM Prompt.md",
+                "file": "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NotebookLM Prompt"
+              "title": "Backlinks for Week 1 — Introduction & Linux Foundation"
             }
           },
           {
@@ -188,6 +201,7 @@
   "lastOpenFiles": [
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
     "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
+    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
     "Resources/To-do.md",
     "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
     "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
@@ -207,7 +221,6 @@
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf",
     "CMPU4027 - Final Year Project/Logs/Week 1.md",
-    "CMPU4027 - Final Year Project/Logs",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
     "CMPU4027 - Final Year Project/Notes/Week 1 Requirements.md",
