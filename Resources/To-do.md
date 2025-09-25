@@ -17,4 +17,5 @@
 - [x] Summarise Machine Learning WK 2 #CMPU4011 ✅ 2025-09-23
 - [ ] Hand Draw Notes For Adv Sec WK2 #CMPU4007
 - [x] Ca : exam ratio (fyp,sys int) [📊Exam - CA](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=Resources%2F%F0%9F%93%8AExam%20-%20CA.md) ✅ 2025-09-25
-- [ ] Hand Draw Sys Int #CMPU4050 
+- [ ] Hand Draw Sys Int Week 1 #CMPU4050 
+- [ ] Hand Draw Sys Int Week 2 #CMPU4050 
