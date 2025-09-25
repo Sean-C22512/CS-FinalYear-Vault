@@ -17,5 +17,6 @@
 - [x] Summarise Machine Learning WK 2 #CMPU4011 ✅ 2025-09-23
 - [ ] Hand Draw Notes For Adv Sec WK2 #CMPU4007
 - [x] Ca : exam ratio (fyp,sys int) [📊Exam - CA](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=Resources%2F%F0%9F%93%8AExam%20-%20CA.md) ✅ 2025-09-25
-- [ ] Hand Draw Sys Int Week 1 #CMPU4050 
+- [x] Hand Draw Sys Int Week 1 #CMPU4050 ✅ 2025-09-25
 - [ ] Hand Draw Sys Int Week 2 #CMPU4050 
+- [ ] Clarify what exactly is meant by "Analysis technique MUST BE FROM lectures , if not 0 marks" [Week 1 Requirements](obsidian://adv-uri?vault=CS-FinalYear-Vault&filepath=CMPU4027%20-%20Final%20Year%20Project%2FRequirements%2FWeek%201%20Requirements.md)
