@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -194,8 +193,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "676dce4c30c7e126",
+  "active": "d170abe4e41e5792",
   "lastOpenFiles": [
+    "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
+    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
+    "CMPU4050 - Systems Integration/🧪Labs",
     "CMPU4027 - Final Year Project/Requirements/Guidelines-on-the-Responsible-Use-of-Generative-Artificial-Intelligence-in-Teaching-and-Learning-13.5.25.pdf",
     "CMPU4027 - Final Year Project/Requirements/Update to Rubric v405.pdf",
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
@@ -209,8 +211,6 @@
     "CMPU4027 - Final Year Project/Requirements/Untitled",
     "CMPU4027 - Final Year Project/Requirements/~$date to Rubric v405.docx",
     "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD.pdf",
-    "CMPU4027 - Final Year Project/Requirements/~$neric System App Feasibility Study cod Full 1140.doc",
-    "CMPU4027 - Final Year Project/Requirements/~$idelines-on-the-Responsible-Use-of-Generative-Artificial-Intelligence-in-Teaching-and-Learning-13.5.25.docx",
     "Templates/Weekly Lecture Note.md",
     "Templates/NotebookLM Prompt.md",
     "Resources/📊Exam - CA.md",
