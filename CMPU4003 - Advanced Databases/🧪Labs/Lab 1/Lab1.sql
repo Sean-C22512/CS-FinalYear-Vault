@@ -98,6 +98,39 @@ SELECT enrollment_id, subject_code
 FROM enrollments 
 WHERE jsonb_path_exists(grades, '$.* ? (@ >= 85)');
 
+-- For subject ML4001, show every assignment mark stored in the grades JSON.” 
+SELECT jsonb_path_query(grades, '$.assignments[*].mark') 
+FROM enrollments 
+WHERE subject_code = 'ML4001';
+
+-- 2.5 Aggregations
+-- Average final grade per university 
+SELECT s.university, AVG((e.grades->>'final')::int) 
+FROM students s 
+JOIN enrollments e ON s.student_id = e.student_id 
+WHERE e.grades ? 'final' GROUP BY s.university;
+
+-- Best student per subject
+SELECT subject_code, student_id, MAX((grades->>'final')::int) AS best 
+FROM enrollments 
+WHERE grades ? 'final' 
+GROUP BY subject_code, student_id;
+
+
+-- 2.6 Updates
+-- Add exchange flag for all UCD students
+UPDATE students SET profile = profile || '{"exchange": false}'
+WHERE university = 'UCD';
+
+-- Update a nested grade
+UPDATE enrollments SET grades = jsonb_set(grades, '{final}', '90') 
+WHERE subject_code = 'DB4003' AND student_id = 2;
+
+-- Remove remarks for enrollments in subject DB4003
+UPDATE enrollments 
+SET grades = grades - 'remarks' 
+WHERE subject_code = 'DB4003';
+
 
 
 
