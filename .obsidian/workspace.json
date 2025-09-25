@@ -23,6 +23,18 @@
             "id": "35e59db72eb8a3d0",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 4003 24-25"
+            }
+          },
+          {
+            "id": "77219f207e9ea087",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
@@ -31,18 +43,6 @@
               },
               "icon": "lucide-file",
               "title": "Week 2 - NoSQL CouchDb & JSONB"
-            }
-          },
-          {
-            "id": "77219f207e9ea087",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "L2a-JSONB in PostgreSQL"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 2 - NoSQL CouchDb & JSONB"
+              "title": "Backlinks for CMPU 4003 24-25"
             }
           },
           {
@@ -198,13 +198,15 @@
   },
   "active": "35e59db72eb8a3d0",
   "lastOpenFiles": [
-    "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
-    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
+    "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
     "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
-    "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
-    "Templates/NotebookLM Prompt.md",
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "Templates/Weekly Lecture Note.md",
+    "Templates/NotebookLM Prompt.md",
+    "Templates/Exams Colour Code.md",
+    "CMPU4050 - Systems Integration/Exams/CMPU 4050 24-25.pdf",
+    "CMPU4050 - Systems Integration/Notes/Week 2 - Networking Fundamentals and Routing.md",
     "Resources/To-do.md",
     "CMPU4050 - Systems Integration/Raw/Week 2 — Networking Fundamentals and Routing.pdf",
     "Resources/Sem1 - Assessment Schdule.xlsx",
@@ -215,10 +217,8 @@
     "CMPU4050 - Systems Integration/Exams/CMPU 4050 23-24.pdf",
     "Resources/Assesment Schedule Sem 1",
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
-    "CMPU4050 - Systems Integration/Raw/Week 1 — Introduction & Linux Foundation.pdf",
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "Resources/📊Exam - CA.md",
-    "Templates/Exams Colour Code.md",
     "README.md",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
