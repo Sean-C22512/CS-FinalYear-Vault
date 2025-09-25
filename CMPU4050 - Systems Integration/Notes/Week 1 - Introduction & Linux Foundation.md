@@ -18,23 +18,11 @@ This week introduces **Systems Integration** with a focus on Linux administratio
 ## 🔑 Key Concepts & Definitions
 
 - **Systems Integration** → The process of bringing together diverse systems and applications to act as a coordinated whole.
-    
 - **SUID** → Execute with the file owner’s privileges.
-    
 - **SGID** → Execute with the group’s privileges or enforce group inheritance on new files.
-    
 - **Sticky Bit** → Prevents deletion of others’ files in shared directories.
-    
 - **SystemD Unit** → A configuration object for services, sockets, timers, or mounts.
-    
 - **Cron** → A job scheduler for automating tasks in Linux.
-    
-
-This response draws solely upon the provided lecture material, _"Week 1 Introduction & Linux Foundation"_, and the past exam papers.
-
----
-
-## Systems Integration Overview
 
 ### Definition and Core Focus (MLO1, MLO4)
 
@@ -51,45 +39,21 @@ Systems integration is defined as the **process of bringing together diverse com
 - **Integration Mindset Core Principles**:
     
     - Incremental changes (small, reversible modifications).
-        
     - Documentation (every change must be documented).
-        
     - Testing (verify in isolation before integration).
-        
     - Monitoring (know when things break).
-        
     - Automation (reduce manual configuration errors).
         
-
-### Module Assessment Structure
-
-The assessment comprises a **Written Examination (60%)** and a **Continuous Assessment (40%)**.
-
-- **Continuous Assessment Breakdown**:
-    
-    - Assignment 1 (10%): DNS Resolver (Submission Week 6).
-        
-    - Assignment 2 (30%): Server Integration (Submission Week 10, Demos Week 11/12).
-        
-- **Submission Protocol Requirements**: Must be a single zip file submitted via Brightspace, containing source code/config files, documentation, and an `AI-USAGE.txt` attribution file. Must not include backups, binaries, or VM images.
-    
-
----
 
 ## Linux Administration Essentials
 
 ### Users and Groups
 
 - Users are defined in `/etc/passwd`.
-    
 - Groups are defined in `/etc/group`.
-    
 - Passwords (hashed) are stored in `/etc/shadow`.
-    
 - Users can belong to a **primary group** and **supplementary groups**.
-    
 - **Key Command:** `sudo adduser alice` (Creates user with home directory).
-    
 - **Key Command:** `sudo usermod -aG sudo alice` (Adds user to supplementary group).
     
 
@@ -100,91 +64,62 @@ Permissions are read in three sets: **owner**, **group**, and **other**. The str
 - **Numeric Representation**:
     
     - Read (r) = 4
-        
     - Write (w) = 2
-        
     - Execute (x) = 1
-        
     - Example: rwx (Owner) = 7; r-x (Group) = 5; r-- (Other) = 4.
         
 - **Special Permissions**:
-    
     - **SUID (4):** Execute with the owner’s privileges.
-        
     - **SGID (2):** Execute with the group’s privileges or inherit group.
-        
     - **Sticky Bit (1):** Prevents users from deleting others' files in shared directories.
         
 - **Key Command:** `chmod 754 file.txt` (Set permissions).
-    
 - **Key Command:** `sudo chown alice:dev file.txt` (Change ownership).
     
 
 ### File System Hierarchy Standard (FHS)
 
 - `/bin` → Essential binaries
-    
 - `/sbin` → System binaries
-    
 - `/lib` → Shared libraries
-    
 - `/etc` → Configuration files
-    
 - `/var` → Variable data (logs, mail)
-    
 - `/tmp` → Temporary files
-    
 - `/usr` → User programs
-    
 - `/home` → User home directories
-    
 - `/srv` → Service data
     
 
 ### Package Management
-
 - **Debian/Ubuntu (APT)**:
-    
     - `sudo apt update`
-        
     - `sudo apt install nginx`
         
 - **RedHat/Fedora (DNF/YUM)**:
     
     - `sudo dnf check-update`
-        
     - `sudo dnf install nginx`
         
 
 ### SystemD Service Management (MLO2)
-
 - **Service Control Commands**:
     
     - `sudo systemctl start nginx`
-        
     - `sudo systemctl stop nginx`
-        
     - `sudo systemctl restart nginx`
-        
     - `sudo systemctl enable nginx`
         
 - **Service Status Information**:
-    
     - Loaded (unit file location and boot status).
-        
     - Active (current state and uptime).
-        
     - Main PID (primary process ID).
         
 - **Viewing Logs (Journalctl)**:
-    
     - `sudo journalctl` (All logs).
     - `sudo journalctl -u nginx` (Service-specific).
     - `sudo journalctl -f` (Follow logs).
     - `sudo journalctl -b -1` (Previous boot logs).
-        
 
----
 
 ## Shell Basics and Automation
 
@@ -203,7 +138,6 @@ Permissions are read in three sets: **owner**, **group**, and **other**. The str
     `/etc/passwd`, `/etc/group`, `/etc/sudoers`, `/etc/hosts`,  
     `/etc/ssh/`, `/etc/nginx/`
     
-
 ### Automation with Cron
 
 - **Cron Schedule Format**: `minute hour day-of-month month day-of-week command`
@@ -211,10 +145,3 @@ Permissions are read in three sets: **owner**, **group**, and **other**. The str
 - **Command:** `crontab -e` (Edit user crontab).
     
 - **System-wide Cron:** `/etc/cron.d/`
-    
-
----
-
-'''
-
-Do you want me to also adjust your **future notes** into this same format automatically, or just for Week 1?
