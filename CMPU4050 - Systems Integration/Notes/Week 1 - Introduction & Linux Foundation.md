@@ -42,8 +42,7 @@ Systems integration is defined as the **process of bringing together diverse com
     - Documentation (every change must be documented).
     - Testing (verify in isolation before integration).
     - Monitoring (know when things break).
-    - Automation (reduce manual configuration errors).
-        
+    - Automation (reduce manual configuration errors). 
 
 ## Linux Administration Essentials
 
@@ -89,7 +88,6 @@ Permissions are read in three sets: **owner**, **group**, and **other**. The str
 - `/home` → User home directories
 - `/srv` → Service data
     
-
 ### Package Management
 - **Debian/Ubuntu (APT)**:
     - `sudo apt update`
@@ -100,7 +98,6 @@ Permissions are read in three sets: **owner**, **group**, and **other**. The str
     - `sudo dnf check-update`
     - `sudo dnf install nginx`
         
-
 ### SystemD Service Management (MLO2)
 - **Service Control Commands**:
     
