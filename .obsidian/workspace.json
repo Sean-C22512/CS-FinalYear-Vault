@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
+                "file": "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 4003 24-25"
+              "title": "Backlinks for L2b-NoSQL CouchDB"
             }
           },
           {
@@ -210,14 +211,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "68466e4945ba9f73",
+  "active": "0ad3cf1c9464605b",
   "lastOpenFiles": [
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
-    "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
-    "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
     "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
-    "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
+    "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
+    "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
+    "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
     "Resources/To-do.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Weekly Lecture Note.md",
