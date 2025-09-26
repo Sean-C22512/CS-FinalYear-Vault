@@ -49,14 +49,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf"
+                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CMPU 4007 22-23"
+              "title": "CMPU 4007 21-22"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
+                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 4007 24-25"
+              "title": "Backlinks for CMPU 4007 21-22"
             }
           },
           {
@@ -207,13 +206,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "fde4c055c5771a7f",
+  "active": "ffc20086f4293fec",
   "lastOpenFiles": [
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf.sb-bd1c59bc-tGYIOA",
-    "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf.sb-bd1c59bc-tGYIOA",
+    "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
     "Resources/📊Exam - CA.md",
