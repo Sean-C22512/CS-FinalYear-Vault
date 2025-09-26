@@ -39,10 +39,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf"
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CMPU 4003 23-24"
+              "title": "CMPU 4003 24-25"
             }
           },
           {
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
+                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for L2b-NoSQL CouchDB"
+              "title": "Backlinks for CMPU 4003 24-25"
             }
           },
           {
@@ -211,12 +210,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "0ad3cf1c9464605b",
+  "active": "68466e4945ba9f73",
   "lastOpenFiles": [
-    "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
-    "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
+    "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
     "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
+    "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "Resources/To-do.md",
