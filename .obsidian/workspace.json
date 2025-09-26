@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf"
+                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CMPU 4007 23-24"
+              "title": "CMPU 4007 21-22"
             }
           },
           {
@@ -57,8 +57,7 @@
               "title": "CMPU 4007 23-24"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
+                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 2 - Classical Encryption Techniques"
+              "title": "Backlinks for CMPU 4007 21-22"
             }
           },
           {
@@ -208,11 +207,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ff21c5708f0a0c2",
+  "active": "35e59db72eb8a3d0",
   "lastOpenFiles": [
-    "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
-    "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
+    "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
+    "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
