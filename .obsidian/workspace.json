@@ -23,12 +23,14 @@
             "id": "35e59db72eb8a3d0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf"
+                "file": "Resources/To-do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 4003 23-24"
+              "icon": "lucide-file",
+              "title": "To-do"
             }
           },
           {
@@ -103,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
+                "file": "Resources/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 4003 23-24"
+              "title": "Backlinks for To-do"
             }
           },
           {
@@ -199,8 +200,8 @@
   },
   "active": "35e59db72eb8a3d0",
   "lastOpenFiles": [
-    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
+    "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
     "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
