@@ -44,8 +44,21 @@
               "icon": "lucide-file-text",
               "title": "lec-02"
             }
+          },
+          {
+            "id": "4a09c129e03d90b7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 4007 23-24"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fb6c2c4d95d7dfd",
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
+                "file": "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 4007 23-24"
+              "title": "Backlinks for Week 2 - Classical Encryption Techniques"
             }
           },
           {
@@ -196,22 +208,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "35e59db72eb8a3d0",
+  "active": "5ff21c5708f0a0c2",
   "lastOpenFiles": [
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf.sb-bd1c59bc-zIZXHl",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
     "CMPU4007 - Advanced Security/Raw/lec-02.pdf",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
+    "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf.sb-bd1c59bc-zIZXHl",
     "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
     "Resources/To-do.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 23-24.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
-    "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
     "Templates/Weekly Lecture Note.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Exams Colour Code.md",
