@@ -11,14 +11,12 @@
             "id": "ffc20086f4293fec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/To-do.md",
-                "mode": "source",
-                "source": false
+                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf"
               },
-              "icon": "lucide-file",
-              "title": "To-do"
+              "icon": "lucide-file-text",
+              "title": "Lec-01"
             }
           },
           {
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/To-do.md",
+                "file": "CMPU4007 - Advanced Security/Raw/Lec-01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-do"
+              "title": "Backlinks for Lec-01"
             }
           },
           {
@@ -211,12 +209,13 @@
   },
   "active": "ffc20086f4293fec",
   "lastOpenFiles": [
+    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
+    "Resources/To-do.md",
     "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
     "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf",
     "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
     "CMPU4027 - Final Year Project/Requirements/Guidelines-on-the-Responsible-Use-of-Generative-Artificial-Intelligence-in-Teaching-and-Learning-13.5.25.pdf",
     "CMPU4027 - Final Year Project/Requirements/Update to Rubric v405.pdf",
-    "Resources/To-do.md",
     "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
@@ -235,7 +234,6 @@
     "Resources/Assets/CMPU-2011 Underfitting vs Overfitting.png",
     "Resources/Assets/CMPU-2011 CRISP-DM process.png",
     "CMPU4050 - Systems Integration/Notes/Week 1 - Introduction & Linux Foundation.md",
-    "CMPU4007 - Advanced Security/Notes/Week 1  - Introduction to Advanced SecurityTags.md",
     "CMPU4027 - Final Year Project/Logs/Week 1.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 2 - Data to Insights to Decisions.md",
     "CMPU4011 - Machine Learning for Predictive Analytics/Notes/Week 1 - Fundamentals of Machine Learning for Predictive Data Analytics.md",
