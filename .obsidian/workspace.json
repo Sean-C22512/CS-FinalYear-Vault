@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/To-do.md",
+                "file": "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do"
+              "title": "Week 1 Requirements"
             }
           },
           {
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/To-do.md",
+                "file": "CMPU4027 - Final Year Project/Requirements/Week 1 Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-do"
+              "title": "Backlinks for Week 1 Requirements"
             }
           },
           {
@@ -211,6 +211,11 @@
   },
   "active": "ffc20086f4293fec",
   "lastOpenFiles": [
+    "CMPU4027 - Final Year Project/Requirements/Update to Rubric v405.pdf",
+    "CMPU4027 - Final Year Project/Requirements/Guidelines-on-the-Responsible-Use-of-Generative-Artificial-Intelligence-in-Teaching-and-Learning-13.5.25.pdf",
+    "CMPU4027 - Final Year Project/Requirements/Generic System App Feasibility Study cod Full 1140.pdf",
+    "CMPU4027 - Final Year Project/Requirements/01 Introduction and Process Overview COD V203.pdf",
+    "Resources/To-do.md",
     "CMPU4003 - Advanced Databases/Raw/L2b-NoSQL CouchDB .pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 2 - NoSQL CouchDb & JSONB.md",
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 24-25.pdf",
@@ -218,15 +223,11 @@
     "CMPU4003 - Advanced Databases/Exams/CMPU 4003 22-23.pdf",
     "CMPU4003 - Advanced Databases/Raw/L2a-JSONB in PostgreSQL.pdf",
     "CMPU4003 - Advanced Databases/Notes/Week 1 - Data Models.md",
-    "Resources/To-do.md",
     "Templates/NotebookLM Prompt.md",
     "Templates/Weekly Lecture Note.md",
     "README.md",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 21-22.pdf",
     "CMPU4007 - Advanced Security/Exams/CMPU 4007 22-23.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 23-24.pdf",
-    "CMPU4007 - Advanced Security/Exams/CMPU 4007 24-25.pdf.sb-bd1c59bc-tGYIOA",
     "CMPU4007 - Advanced Security/Notes/Week 2 - Classical Encryption Techniques.md",
     "Resources/📊Exam - CA.md",
     "Templates/Exams Colour Code.md",
